@@ -1,0 +1,1978 @@
+Age,Gender,University,Department,Year,CGPA,Beca,Anxiety_Label,Anxiety_Value,Stress_Label,Stress_Value,Depression_Label,Depression_Value
+20,0,IUB,Engineering_CS,4,2.75,0,Moderate,10,Moderate,21,Moderate,11
+20,1,IUB,Engineering_CS,1,3.9,0,Mild,9,Moderate,18,Mild,9
+20,1,IUB,Engineering_CS,1,3.2,0,Moderate,10,Moderate,23,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.6,0,Mild,8,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,1,3.9,0,Moderate,14,Moderate,22,Moderately_Severe,18
+20,1,IUB,Engineering_CS,1,3.9,1,Minimal,4,Low,5,Minimal,3
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,16,Moderate,22,Moderate,14
+20,0,IUB,Engineering_CS,1,3.9,0,Moderate,14,Moderate,20,Moderately_Severe,18
+20,0,IUB,Engineering_CS,1,3.9,1,Moderate,13,Moderate,22,Moderately_Severe,19
+20,1,IUB,Engineering_CS,1,3.6,0,Moderate,14,Moderate,20,Moderately_Severe,18
+20,1,IUB,Engineering_CS,1,3.9,0,Severe,18,Moderate,25,Severe,23
+20,1,IUB,Engineering_CS,1,3.9,1,Moderate,11,Moderate,15,Mild,9
+20,0,IUB,Engineering_CS,1,3.9,0,Severe,19,Moderate,26,Severe,20
+20,0,IUB,Engineering_CS,1,3.9,0,Moderate,14,Moderate,24,Moderately_Severe,18
+20,1,IUB,Engineering_CS,1,2.75,0,Severe,18,Moderate,21,Severe,20
+20,0,IUB,Engineering_CS,3,2.75,0,Moderate,14,Moderate,22,Moderately_Severe,18
+20,0,IUB,Engineering_CS,1,3.9,1,Moderate,12,Moderate,17,Mild,9
+20,0,IUB,Engineering_CS,1,3.6,0,Minimal,3,Moderate,20,Minimal,3
+20,0,IUB,Engineering_CS,1,3.6,0,Mild,6,Moderate,19,Mild,6
+20,1,IUB,Engineering_CS,1,3.9,1,Minimal,0,Low,13,No,0
+20,0,IUB,Engineering_CS,1,3.9,1,Mild,7,Moderate,17,Minimal,4
+20,1,IUB,Engineering_CS,1,3.9,0,Severe,16,Moderate,21,Severe,21
+20,0,IUB,Engineering_CS,1,3.9,0,Severe,16,Moderate,20,Moderate,12
+24,1,IUB,Engineering_CS,4,2.75,1,Moderate,13,High ,30,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.2,0,Mild,8,Moderate,24,Moderate,10
+20,1,IUB,Engineering_CS,1,3.2,0,Minimal,0,Moderate,18,Mild,7
+24,1,IUB,Engineering_CS,3,2.25,1,Severe,17,Moderate,26,Severe,21
+20,1,IUB,Engineering_CS,1,3.6,1,Moderate,12,Moderate,25,Severe,24
+20,1,IUB,Engineering_CS,2,3.2,1,Severe,18,High ,32,Moderately_Severe,17
+24,1,IUB,Engineering_CS,1,3.6,0,Severe,17,Moderate,20,Moderately_Severe,18
+24,0,IUB,Engineering_CS,3,3.6,1,Severe,15,Moderate,21,Moderately_Severe,19
+24,0,IUB,Engineering_CS,4,2.75,1,Severe,16,High ,31,Moderately_Severe,19
+24,1,IUB,Engineering_CS,2,2.25,0,Severe,21,High ,27,Severe,24
+20,1,IUB,Engineering_CS,1,3.28,0,Minimal,0,Moderate,16,No,0
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,5,Moderate,22,Mild,6
+20,1,IUB,Other,1,3.28,0,Moderate,10,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,2,2.25,0,Minimal,4,Moderate,15,Minimal,2
+20,1,IUB,Engineering_CS,1,2.25,0,Mild,7,Moderate,15,Mild,7
+20,1,IUB,Engineering_CS,1,3.28,0,Moderate,13,Moderate,22,Moderately_Severe,18
+20,0,IUB,Engineering_CS,1,2.25,0,Moderate,12,Moderate,17,Moderately_Severe,15
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,6,High ,27,Moderate,13
+20,0,IUB,Engineering_CS,1,2.75,0,Severe,19,Moderate,25,Moderately_Severe,17
+20,0,IUB,Engineering_CS,1,3.2,1,Mild,8,Moderate,21,Moderately_Severe,15
+20,1,IUB,Engineering_CS,3,2.25,0,Mild,8,Moderate,22,Mild,9
+20,1,IUB,Engineering_CS,1,2.25,1,Minimal,0,Moderate,23,Minimal,2
+17,0,IUB,Engineering_CS,1,2.25,0,Minimal,0,Moderate,23,Minimal,3
+20,1,IUB,Engineering_CS,1,2.75,0,Mild,8,Moderate,23,Moderate,12
+20,0,IUB,Engineering_CS,1,2.75,0,Severe,17,Moderate,16,Severe,22
+20,1,IUB,Engineering_CS,1,3.28,1,Minimal,0,Moderate,19,Severe,22
+20,0,IUB,Engineering_CS,1,2.25,0,Severe,18,Moderate,24,Moderate,13
+24,1,IUB,Engineering_CS,3,2.75,0,Severe,21,Moderate,22,No,0
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,6,Low,12,Mild,9
+20,0,IUB,Engineering_CS,1,3.28,0,Moderate,13,Moderate,21,Moderate,10
+20,1,IUB,Engineering_CS,1,3.28,0,Moderate,11,Moderate,17,Moderate,11
+20,1,IUB,Engineering_CS,1,3.28,0,Moderate,11,Moderate,22,Moderately_Severe,15
+20,1,IUB,Engineering_CS,1,3.28,0,Moderate,11,Moderate,20,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,7,Moderate,19,Moderate,12
+20,0,IUB,Engineering_CS,1,3.28,0,Mild,8,Moderate,19,Mild,6
+20,1,IUB,Engineering_CS,1,3.28,1,Moderate,11,Moderate,21,Moderately_Severe,17
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,7,Moderate,17,Mild,9
+20,1,IUB,Engineering_CS,1,3.28,0,Minimal,0,Moderate,16,Minimal,1
+20,1,IUB,Engineering_CS,1,3.28,0,Severe,21,Moderate,21,Moderately_Severe,19
+20,0,IUB,Engineering_CS,1,3.28,0,Moderate,14,High ,31,Moderately_Severe,19
+20,0,IUB,Engineering_CS,1,3.28,0,Mild,6,Moderate,18,Minimal,3
+20,0,IUB,Engineering_CS,1,3.28,0,Mild,8,Moderate,21,Mild,9
+20,0,IUB,Engineering_CS,1,3.28,0,Mild,8,Moderate,19,Mild,9
+20,0,IUB,Engineering_CS,1,3.28,0,Severe,16,High ,31,Severe,20
+20,0,IUB,Engineering_CS,1,3.28,1,Moderate,10,Moderate,21,Mild,9
+20,1,IUB,Engineering_CS,2,2.25,0,Severe,16,Moderate,21,Moderate,12
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,17,High ,31,Moderately_Severe,15
+20,0,IUB,Engineering_CS,1,2.75,0,Severe,21,High ,40,Severe,27
+24,1,IUB,Engineering_CS,3,3.6,0,Moderate,13,Moderate,20,Severe,22
+20,1,IUB,Engineering_CS,1,2.25,1,Severe,16,Moderate,23,Moderately_Severe,17
+20,0,IUB,Engineering_CS,1,3.9,1,Mild,9,Moderate,21,Mild,8
+20,0,IUB,Engineering_CS,2,3.9,1,Mild,5,Moderate,17,Moderate,10
+20,1,IUB,Engineering_CS,1,3.6,1,Severe,20,Moderate,25,Severe,25
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,7,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,9,Moderate,23,Moderate,11
+20,0,IUB,Engineering_CS,3,2.75,0,Mild,8,Moderate,20,Mild,9
+20,1,IUB,Engineering_EEE,2,2.25,0,Minimal,1,Moderate,17,Minimal,1
+24,1,IUB,Engineering_CS,4,2.25,0,Moderate,11,High ,27,Moderate,13
+20,0,IUB,Engineering_CS,1,3.28,0,Mild,8,Moderate,19,Moderate,11
+20,0,IUB,Engineering_CS,3,2.75,0,Severe,17,Moderate,26,Moderately_Severe,18
+24,1,IUB,Engineering_CS,3,2.75,0,Moderate,14,Moderate,23,Moderately_Severe,18
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,15,Moderate,20,Moderately_Severe,15
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,16,High ,27,Moderately_Severe,16
+20,1,IUB,Engineering_CS,3,3.2,0,Severe,21,High ,31,Moderately_Severe,17
+20,1,IUB,Engineering_CS,2,3.6,0,Mild,9,Moderate,26,Moderate,12
+24,1,IUB,Engineering_CS,2,3.2,0,Severe,21,Moderate,24,Moderate,13
+24,1,IUB,Engineering_CS,4,3.2,1,Severe,17,High ,27,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.6,0,Moderate,14,Moderate,14,Moderately_Severe,18
+24,1,IUB,Engineering_CS,3,2.75,0,Moderate,14,Moderate,20,Mild,9
+24,1,IUB,Engineering_CS,2,2.25,0,Mild,7,Moderate,15,Mild,9
+20,1,IUB,Engineering_CS,2,3.6,1,Moderate,11,Moderate,20,Mild,7
+20,0,IUB,Engineering_CS,3,2.75,0,Severe,19,Moderate,24,Severe,21
+20,0,IUB,Engineering_CS,3,2.75,0,Moderate,13,High ,34,Moderate,14
+20,1,IUB,Engineering_CS,2,3.6,0,Severe,21,High ,36,No,0
+20,1,IUB,Engineering_CS,3,2.75,1,Moderate,14,High ,33,Moderately_Severe,18
+24,1,IUB,Engineering_CS,4,2.75,0,Moderate,10,Moderate,21,Moderately_Severe,15
+20,0,IUB,Engineering_CS,2,2.75,1,Severe,21,High ,27,Severe,24
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,17,High ,32,Moderately_Severe,18
+20,1,IUB,Engineering_CS,2,3.9,1,Severe,21,High ,33,Severe,27
+24,1,IUB,Engineering_CS,3,3.2,0,Severe,21,High ,38,Severe,22
+20,0,IUB,Engineering_CS,3,3.2,0,Severe,17,High ,36,Severe,21
+20,0,IUB,Engineering_CS,4,3.6,1,Mild,8,Moderate,17,Mild,9
+20,1,IUB,Engineering_CS,2,2.75,0,Moderate,11,Moderate,24,Mild,9
+24,1,IUB,Engineering_CS,4,3.6,0,Moderate,14,Moderate,25,Moderately_Severe,18
+20,0,IUB,Engineering_CS,2,3.9,1,Moderate,12,Moderate,22,Severe,27
+20,1,IUB,Engineering_CS,3,3.28,0,Severe,15,Moderate,23,Moderate,13
+20,0,IUB,Engineering_CS,2,3.2,1,Severe,15,Moderate,22,Severe,23
+20,0,IUB,Engineering_CS,2,2.75,0,Severe,17,High ,29,Moderately_Severe,19
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,21,High ,28,Severe,21
+20,0,IUB,Engineering_EEE,2,2.75,0,Severe,15,Moderate,20,Moderately_Severe,18
+20,1,IUB,Engineering_CS,2,3.2,0,Moderate,12,Moderate,24,Moderately_Severe,15
+20,1,IUB,Engineering_CS,3,2.75,0,Moderate,13,Moderate,25,Moderately_Severe,17
+20,1,IUB,Engineering_CS,0,2.75,0,Minimal,4,Moderate,20,Moderately_Severe,15
+24,0,IUB,Engineering_CS,3,2.75,0,Severe,17,High ,38,Severe,22
+20,0,IUB,Engineering_CS,2,3.2,1,Severe,18,High ,38,Moderately_Severe,16
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,18,High ,29,Severe,23
+24,0,IUB,Engineering_CS,4,2.75,1,Severe,15,Moderate,24,Severe,21
+20,1,IUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,15,Moderate,11
+20,1,IUB,Engineering_CS,2,2.75,0,Moderate,14,Moderate,17,Severe,21
+20,1,IUB,Engineering_CS,3,3.6,1,Severe,16,Moderate,22,Severe,24
+20,1,IUB,Engineering_CS,4,2.75,0,Moderate,14,Moderate,19,Moderate,14
+24,1,IUB,Engineering_CS,1,2.75,1,Minimal,0,Moderate,16,No,0
+24,1,IUB,Environmental_Sciences,1,3.28,1,Severe,15,Moderate,25,Moderately_Severe,17
+20,1,IUB,Business,2,3.9,1,Severe,21,High ,30,Severe,24
+20,0,IUB,Engineering_CS,2,3.9,1,Severe,21,High ,33,Severe,26
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,15,Moderate,19,Severe,20
+20,0,IUB,Business,2,3.2,0,Severe,18,High ,36,Severe,21
+24,1,IUB,Engineering_CS,3,2.75,1,Mild,7,Moderate,21,Mild,6
+20,1,Daffodil,Other,1,3.2,0,Severe,17,Moderate,14,Moderately_Severe,19
+20,0,IUB,Engineering_CS,3,2.25,0,Severe,20,High ,33,Severe,20
+24,1,IUB,Engineering_CS,3,2.75,0,Severe,19,Moderate,24,Moderately_Severe,16
+20,1,IUB,Engineering_CS,3,3.6,0,Severe,21,Moderate,25,Severe,25
+20,1,BUET,Engineering_CS,1,3.9,1,Moderate,10,Moderate,20,Mild,7
+24,1,IUB,Engineering_CS,4,2.25,0,Moderate,14,Moderate,19,Moderately_Severe,18
+24,1,IUB,Engineering_CS,4,2.75,0,Severe,21,Moderate,22,Severe,22
+20,1,IUB,Engineering_CS,2,2.75,1,Severe,15,Moderate,23,Moderately_Severe,15
+24,0,IUB,Engineering_CS,3,3.2,1,Severe,16,High ,32,Moderately_Severe,18
+24,1,IUB,Engineering_CS,4,2.75,0,Severe,18,High ,40,Severe,27
+20,0,IUB,Engineering_CS,2,3.6,1,Moderate,13,Moderate,24,Severe,22
+20,1,IUB,Engineering_CS,2,3.2,0,Severe,15,Moderate,25,Moderately_Severe,18
+24,1,IUB,Engineering_CS,4,2.75,0,Moderate,11,Moderate,26,Moderate,11
+20,0,IUB,Business,3,3.2,1,Minimal,1,Moderate,20,Moderate,10
+24,1,IUB,Business,4,2.75,0,Moderate,14,Moderate,22,Severe,22
+20,1,IUB,Engineering_CS,3,3.2,0,Severe,19,Moderate,23,Severe,23
+24,0,IUB,Engineering_CS,3,3.2,0,Severe,21,Moderate,24,Severe,27
+24,1,IUB,Engineering_CS,3,2.75,0,Severe,19,High ,28,Moderately_Severe,19
+24,1,IUB,Engineering_CS,4,2.75,0,Severe,20,High ,36,Severe,20
+20,1,IUB,Business,4,2.75,0,Mild,7,Moderate,21,Mild,9
+24,0,IUB,Business,3,3.2,1,Mild,8,Moderate,22,Moderately_Severe,15
+20,0,IUB,Business,1,3.6,0,Severe,18,Moderate,21,Severe,26
+20,1,IUB,Business,3,3.2,0,Moderate,14,Moderate,20,Moderate,14
+20,0,IUB,Engineering_CS,3,3.2,0,Severe,15,Moderate,25,Severe,25
+24,1,IUB,Engineering_CS,4,3.2,1,Mild,8,Moderate,22,Moderate,11
+24,1,IUB,Engineering_CS,2,2.75,0,Minimal,0,Low,0,No,0
+20,0,IUB,Engineering_CS,3,3.6,0,Severe,21,High ,36,Severe,27
+20,1,IUB,Business,1,3.28,0,Severe,18,Moderate,21,Severe,24
+20,0,IUB,Other,1,3.28,1,Severe,15,High ,28,Moderately_Severe,18
+20,1,IUB,Business,3,2.75,0,Moderate,12,Moderate,20,Minimal,4
+20,0,IUB,Business,2,3.6,1,Severe,21,Moderate,23,Severe,26
+24,0,IUB,Engineering_CS,4,2.75,0,Severe,15,Moderate,25,Moderately_Severe,17
+24,1,IUB,Engineering_CS,4,2.75,0,Mild,9,Moderate,18,Moderately_Severe,15
+20,1,IUB,Business,3,2.75,0,Mild,7,Moderate,20,Mild,8
+24,1,IUB,Engineering_CS,4,2.75,0,Severe,18,High ,30,Severe,22
+24,1,IUB,Business,4,2.75,0,Severe,16,Moderate,23,Mild,8
+24,1,IUB,Engineering_CS,3,2.25,0,Severe,16,Moderate,20,Severe,24
+20,1,IUB,Business,3,2.75,1,Severe,18,Moderate,17,Severe,24
+20,1,IUB,Engineering_CS,3,2.75,0,Moderate,11,Moderate,21,Moderate,14
+24,0,IUB,Pharmacy,4,3.6,1,Moderate,11,Moderate,16,Moderate,14
+20,1,IUB,Business,2,3.2,0,Moderate,13,Moderate,25,Moderately_Severe,17
+24,1,IUB,Business,2,3.2,1,Minimal,2,Moderate,14,Minimal,1
+24,0,IUB,Business,2,2.75,1,Severe,21,High ,29,Severe,23
+20,0,IUB,Business,2,3.9,1,Moderate,14,Moderate,24,Moderate,10
+24,0,IUB,Engineering_CS,3,2.75,0,Severe,19,Moderate,22,Moderately_Severe,18
+24,1,IUB,Business,3,3.2,1,Moderate,11,Moderate,18,Moderately_Severe,16
+20,0,IUB,Business,2,3.9,1,Mild,9,Moderate,17,Moderate,14
+20,0,IUB,Engineering_CS,3,3.6,1,Severe,18,High ,27,Moderately_Severe,16
+20,1,IUB,Business,2,2.75,0,Moderate,13,Moderate,21,Mild,9
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,20,High ,32,Severe,20
+24,1,IUB,Engineering_CS,4,3.2,1,Severe,16,Moderate,23,Moderately_Severe,18
+20,1,IUB,Business,2,2.75,0,Mild,5,Moderate,14,Minimal,4
+24,1,IUB,Engineering_CS,4,2.75,0,Severe,16,High ,31,Severe,25
+24,1,IUB,Engineering_CS,3,3.2,0,Mild,7,Moderate,19,Mild,8
+24,1,IUB,Engineering_CS,4,2.75,0,Severe,18,High ,28,Severe,24
+20,1,IUB,Engineering_CS,3,3.2,0,Mild,8,Moderate,17,Moderate,11
+20,0,IUB,Engineering_CS,3,3.2,0,Severe,18,High ,40,Moderately_Severe,19
+20,0,IUB,Business,0,3.28,0,Severe,18,Moderate,25,Moderately_Severe,16
+24,1,IUB,Engineering_CS,3,2.75,0,Severe,21,High ,34,Severe,20
+28,1,IUB,Engineering_CS,4,2.75,0,Severe,20,High ,31,Severe,22
+20,1,IUB,Business,2,2.75,0,Mild,6,Moderate,14,Mild,5
+20,1,BRAC,Engineering_CS,1,2.25,0,Severe,18,High ,35,Moderate,14
+20,1,IUB,Engineering_CS,1,2.75,1,Moderate,14,Moderate,20,Moderately_Severe,18
+20,0,IUB,Engineering_CS,1,2.25,0,Mild,7,Moderate,18,Mild,9
+20,0,IUB,Engineering_CS,2,3.9,1,Severe,21,High ,37,Severe,27
+20,0,IUB,Engineering_CS,1,3.6,1,Mild,7,Moderate,15,Minimal,4
+20,1,IUB,Engineering_CS,1,3.2,1,Severe,15,Moderate,22,Moderately_Severe,15
+20,1,IUB,Engineering_CS,2,3.6,1,Severe,21,High ,38,Severe,25
+24,1,IUB,Engineering_CS,3,2.75,0,Severe,18,Moderate,24,Severe,22
+24,1,IUB,Engineering_CS,3,3.6,1,Moderate,12,Moderate,17,Moderately_Severe,16
+20,0,IUB,Engineering_CS,1,3.6,0,Severe,15,Moderate,21,Moderately_Severe,17
+20,0,IUB,Engineering_CS,1,3.6,1,Mild,9,Moderate,22,Moderate,14
+20,1,IUB,Engineering_CS,3,3.9,1,Moderate,11,High ,31,Moderately_Severe,19
+20,0,IUB,Engineering_CS,3,3.2,0,Severe,21,High ,29,Severe,26
+24,1,Dhaka,Business,4,3.2,0,Severe,16,High ,35,Moderate,14
+24,1,Dhaka,Other,4,3.2,1,Severe,16,High ,28,Severe,22
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,15,High ,27,Moderately_Severe,18
+24,0,Dhaka,Other,4,3.6,0,Mild,7,Moderate,14,Mild,5
+20,0,IUB,Business,2,3.6,1,Severe,17,Moderate,23,Moderately_Severe,19
+20,0,IUB,Engineering_CS,2,2.75,0,Moderate,12,High ,29,Moderate,12
+24,1,Dhaka,Other,4,2.75,0,Mild,7,Moderate,24,No,0
+24,0,Dhaka,Business,4,3.2,0,Severe,15,High ,33,Severe,21
+20,0,Dhaka,Other,4,3.2,1,Severe,18,Moderate,26,Severe,22
+24,1,IUB,Engineering_CS,4,2.75,0,Severe,18,High ,38,Severe,22
+24,0,IUB,Engineering_CS,3,3.2,0,Severe,20,High ,36,Severe,23
+20,1,IUB,Engineering_CS,3,3.2,0,Severe,17,High ,38,Severe,25
+20,1,IUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,23,Minimal,3
+24,1,IUB,Engineering_CS,4,3.6,1,Moderate,11,Moderate,20,Moderate,12
+20,1,IUB,Engineering_CS,2,3.9,1,Severe,17,Moderate,23,Moderately_Severe,15
+20,1,IUB,Engineering_CS,3,3.6,1,Severe,21,High ,38,Severe,24
+20,1,IUB,Business,2,2.75,0,Severe,18,High ,27,Moderately_Severe,17
+20,1,IUB,Engineering_CS,3,2.75,0,Moderate,14,High ,27,Severe,20
+20,0,Dhaka,Other,4,3.2,0,Moderate,10,Moderate,23,Moderate,14
+24,1,IUB,Engineering_CS,3,3.6,0,Mild,8,Low,10,Minimal,4
+24,1,IUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,2,3.6,0,Severe,15,Moderate,20,Moderately_Severe,15
+24,1,IUB,Engineering_CS,3,2.75,0,Severe,16,High ,36,Severe,25
+20,1,IUB,Engineering_CS,1,3.28,0,Moderate,14,Moderate,20,Moderately_Severe,18
+24,1,IUB,Engineering_CS,4,2.75,0,Moderate,11,Moderate,21,Moderate,14
+20,0,IUB,Engineering_CS,1,3.2,1,Moderate,14,High ,37,Severe,23
+20,0,IUB,Engineering_CS,2,3.6,1,Severe,18,High ,29,Severe,26
+20,1,IUB,Engineering_CS,3,3.9,1,Severe,18,High ,30,Severe,21
+28,1,Dhaka,Business,0,3.2,0,Severe,20,Moderate,20,Severe,27
+20,1,IUB,Engineering_CS,1,3.9,1,Mild,5,Moderate,19,Mild,5
+20,1,IUB,Engineering_CS,1,3.6,1,Mild,5,Moderate,15,Mild,6
+28,1,Dhaka,Business,4,3.6,0,Minimal,3,Moderate,14,Minimal,1
+24,1,Dhaka,Other,0,3.2,0,Moderate,10,Moderate,20,Moderate,11
+24,1,Dhaka,Business,0,3.6,0,Severe,20,Moderate,26,Moderate,12
+24,1,Dhaka,Other,0,2.75,0,Severe,20,High ,34,Moderately_Severe,18
+28,0,Dhaka,Business,0,3.2,0,Moderate,13,Moderate,25,Severe,20
+20,0,IUB,Engineering_CS,3,3.2,1,Severe,21,Moderate,26,Moderately_Severe,19
+20,0,IUB,Engineering_CS,3,3.6,1,Severe,20,High ,31,Severe,27
+20,1,IUB,Engineering_CS,2,3.2,0,Moderate,13,High ,30,Moderately_Severe,18
+24,1,IUB,Engineering_CS,2,3.2,1,Severe,21,High ,28,Severe,21
+28,1,Dhaka,Business,0,3.2,0,Mild,7,Moderate,24,Moderately_Severe,15
+24,1,Dhaka,Business,2,2.75,0,Severe,17,High ,36,Severe,20
+24,1,IUB,Engineering_CS,4,3.2,1,Mild,7,Moderate,19,Moderately_Severe,18
+20,2,IUB,Engineering_CS,2,3.2,0,Severe,16,High ,32,Severe,23
+24,1,Dhaka,Business,0,2.75,0,Severe,17,High ,32,Moderate,12
+24,0,IUB,Engineering_CS,3,3.2,1,Severe,19,High ,36,Severe,23
+24,1,IUB,Engineering_CS,4,3.2,0,Mild,9,Moderate,17,Mild,5
+24,1,IUB,Engineering_CS,3,3.9,1,Mild,8,Moderate,20,Moderate,10
+24,1,IUB,Engineering_CS,3,3.9,1,Severe,15,Moderate,16,Mild,9
+20,1,IUB,Engineering_CS,3,3.2,0,Moderate,12,Moderate,24,Moderately_Severe,19
+20,1,Daffodil,Business,3,3.2,0,Moderate,12,Moderate,26,Moderate,13
+24,1,IUB,Engineering_CS,2,3.2,0,Severe,16,Moderate,23,Moderately_Severe,17
+20,0,Dhaka,Other,2,3.6,0,Mild,9,Moderate,17,Moderate,14
+24,1,IUB,Engineering_CS,4,3.6,1,Mild,7,Moderate,20,Mild,9
+28,1,Dhaka,Business,2,3.6,0,Mild,5,Moderate,14,Mild,7
+20,1,IUB,Engineering_CS,3,3.2,1,Minimal,3,Moderate,20,Moderate,12
+20,1,IUB,Engineering_CS,1,2.75,0,Moderate,12,Moderate,24,Severe,23
+20,0,IUB,Engineering_CS,2,3.6,1,Severe,19,High ,27,Moderately_Severe,15
+20,0,IUB,Engineering_CS,2,3.2,1,Mild,8,Moderate,18,Mild,8
+20,1,IUB,Engineering_CS,1,3.2,1,Severe,19,High ,29,Severe,24
+20,1,IUB,Engineering_CS,2,3.6,0,Mild,8,Moderate,17,Moderate,11
+20,1,IUB,Engineering_CS,2,3.2,0,Severe,17,High ,28,Severe,23
+20,1,IUB,Engineering_CS,1,3.6,0,Severe,21,Moderate,20,Moderate,14
+24,1,IUB,Engineering_CS,0,2.25,0,Severe,20,Moderate,22,Severe,25
+20,1,IUB,Engineering_CS,1,3.2,0,Moderate,11,Moderate,21,Moderately_Severe,17
+20,0,IUB,Engineering_CS,2,2.25,0,Severe,21,High ,38,Severe,22
+24,1,IUB,Engineering_CS,3,2.75,0,Severe,18,Moderate,21,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.6,1,Severe,17,High ,30,Moderately_Severe,19
+20,1,IUB,Engineering_CS,2,3.6,0,Severe,21,High ,27,Moderately_Severe,19
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,21,Moderate,20,Severe,26
+20,0,IUB,Engineering_CS,3,3.6,1,Severe,21,High ,32,Severe,27
+24,1,IUB,Engineering_CS,4,2.75,1,Moderate,14,Moderate,20,Moderate,13
+24,1,IUB,Engineering_CS,3,3.9,1,Moderate,14,High ,30,Moderately_Severe,15
+24,1,IUB,Engineering_CS,3,2.75,0,Moderate,11,Moderate,18,Moderate,12
+24,1,IUB,Engineering_CS,4,2.75,0,Moderate,10,Moderate,22,Moderate,13
+24,1,IUB,Engineering_CS,3,2.75,1,Severe,15,High ,29,Moderate,14
+24,1,IUB,Engineering_EEE,3,2.75,0,Severe,18,High ,30,Severe,23
+24,0,IUB,Engineering_CS,0,2.25,0,Severe,21,Moderate,26,Severe,25
+20,0,IUB,Engineering_CS,3,3.6,1,Moderate,11,Moderate,15,Mild,9
+24,1,IUB,Engineering_CS,4,3.2,0,Severe,16,Moderate,18,Moderate,12
+24,1,IUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,3,3.2,1,Mild,9,Moderate,24,Moderate,13
+20,1,IUB,Engineering_CS,3,3.6,0,Severe,17,High ,28,Moderate,10
+20,1,IUB,Engineering_CS,3,2.75,0,Moderate,10,High ,31,Moderately_Severe,17
+20,0,IUB,Engineering_CS,3,3.2,0,Severe,16,Moderate,24,Moderately_Severe,18
+20,1,IUB,Engineering_CS,2,3.9,1,Mild,9,Moderate,23,Mild,6
+20,0,IUB,Engineering_CS,2,2.75,0,Moderate,11,Moderate,24,Moderately_Severe,16
+20,0,IUB,Engineering_CS,2,3.2,0,Moderate,14,High ,29,Moderate,13
+20,0,IUB,Engineering_CS,2,3.9,1,Severe,20,High ,27,Moderately_Severe,19
+20,1,IUB,Engineering_CS,2,3.6,1,Moderate,13,Moderate,26,Moderately_Severe,15
+24,1,IUB,Engineering_CS,3,3.2,0,Mild,8,Moderate,17,Moderate,10
+20,1,IUB,Engineering_CS,2,3.6,0,Moderate,12,Moderate,26,Moderate,11
+20,0,IUB,Engineering_CS,3,2.75,1,Moderate,14,Moderate,22,Severe,21
+24,0,IUB,Engineering_CS,3,2.25,0,Severe,15,Moderate,22,Moderately_Severe,16
+20,1,IUB,Engineering_CS,2,3.6,1,Mild,8,Moderate,26,Mild,7
+24,1,IUB,Engineering_CS,0,2.75,0,Severe,16,High ,32,Severe,24
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,20,Moderate,23,Moderately_Severe,15
+20,1,IUB,Other,3,2.75,0,Mild,5,Moderate,16,Mild,9
+20,1,IUB,Engineering_CS,0,3.2,1,Mild,7,Moderate,15,Mild,7
+24,1,IUB,Engineering_CS,4,3.2,0,Moderate,10,Moderate,20,Moderate,10
+20,1,North_South,Engineering_CS,4,2.25,0,Moderate,10,Moderate,19,Moderately_Severe,18
+20,0,North_South,Engineering_CS,3,3.2,0,Severe,16,Moderate,24,Severe,24
+24,1,North_South,Engineering_CS,4,2.75,0,Moderate,10,Moderate,24,Moderately_Severe,18
+24,1,North_South,Engineering_CS,4,2.75,0,Moderate,12,Moderate,20,Moderate,12
+20,1,North_South,Engineering_CS,1,2.75,0,Severe,15,Moderate,22,Moderately_Severe,16
+20,1,North_South,Engineering_CS,1,2.25,0,Moderate,12,Low,13,Moderately_Severe,19
+20,1,North_South,Engineering_CS,4,3.6,0,Severe,18,High ,29,Moderate,13
+24,0,IUB,Engineering_CS,3,2.75,0,Mild,8,Moderate,21,Moderately_Severe,17
+24,1,North_South,Engineering_CS,4,2.25,0,Mild,9,Moderate,23,Mild,8
+20,1,North_South,Engineering_CS,1,3.9,0,Moderate,13,High ,31,Mild,9
+20,0,North_South,Engineering_CS,1,2.75,0,Mild,9,Moderate,15,Minimal,3
+20,0,North_South,Engineering_CS,1,3.6,0,Severe,16,High ,34,Moderate,12
+20,1,IUB,Engineering_CS,1,2.25,0,Severe,18,High ,33,Moderate,13
+20,1,North_South,Engineering_CS,3,2.75,0,Mild,7,Moderate,22,Mild,7
+20,1,North_South,Engineering_CS,1,2.75,1,Moderate,12,Moderate,18,Moderate,13
+20,0,IUB,Engineering_CS,3,3.6,1,Severe,21,High ,32,Severe,22
+20,0,North_South,Engineering_CS,3,3.2,0,Moderate,13,Moderate,20,Moderately_Severe,19
+24,1,North_South,Engineering_CS,3,3.2,0,Moderate,14,Moderate,26,Moderate,12
+24,1,North_South,Engineering_CS,4,2.75,1,Moderate,14,Moderate,21,Severe,20
+20,1,North_South,Engineering_CS,4,3.2,0,Mild,9,Moderate,19,Moderate,11
+20,1,North_South,Engineering_CS,1,2.75,0,Severe,18,Moderate,25,Moderately_Severe,16
+24,1,IUB,Engineering_CS,3,2.25,1,Severe,21,Moderate,22,Severe,27
+20,0,IUB,Engineering_CS,3,3.2,0,Mild,7,Moderate,18,Mild,9
+24,0,IUB,Engineering_CS,4,3.2,1,Moderate,12,Moderate,20,Moderately_Severe,16
+20,1,IUB,Engineering_CS,3,2.75,0,Mild,7,Moderate,21,Moderate,12
+24,1,IUB,Engineering_CS,3,3.2,0,Moderate,14,Moderate,24,Moderately_Severe,18
+20,1,IUB,Engineering_CS,3,3.6,1,Moderate,12,Moderate,19,Moderately_Severe,18
+20,1,IUB,Engineering_CS,3,3.2,0,Moderate,14,Moderate,17,Severe,20
+20,1,North_South,Engineering_CS,3,2.25,0,Moderate,13,High ,31,Severe,23
+24,1,IUB,Engineering_CS,3,2.75,0,Mild,8,Moderate,23,Mild,9
+24,1,Dhaka,Biological_Sciences,4,3.2,0,Mild,9,Moderate,22,Mild,6
+20,1,IUB,Engineering_CS,1,2.75,0,Moderate,10,Moderate,23,Moderately_Severe,15
+20,0,Dhaka,Biological_Sciences,3,3.2,1,Severe,17,Moderate,22,Severe,20
+20,0,IUB,Engineering_CS,1,3.28,0,Severe,18,Low,12,Moderately_Severe,17
+24,0,Dhaka,Biological_Sciences,3,3.2,0,Mild,9,Moderate,20,Moderate,11
+24,1,Dhaka,Biological_Sciences,3,3.2,0,Mild,8,Moderate,15,Moderate,11
+20,0,IUB,Engineering_CS,1,3.28,0,Moderate,10,Moderate,16,Mild,7
+20,0,IUB,Engineering_CS,1,3.28,0,Severe,18,Moderate,21,Moderate,12
+20,1,IUB,Engineering_CS,1,3.28,0,Moderate,13,Moderate,23,Severe,20
+20,0,North_South,Engineering_CS,1,2.25,0,Moderate,10,Moderate,25,Moderate,14
+20,1,IUB,Engineering_CS,1,3.6,0,Moderate,13,Moderate,19,Mild,6
+20,0,IUB,Engineering_CS,1,3.28,1,Mild,9,Moderate,15,Moderate,13
+24,0,Dhaka,Environmental_Sciences,3,3.2,0,Mild,9,Moderate,22,Mild,8
+20,0,IUB,Engineering_CS,1,3.28,0,Moderate,13,Moderate,17,Mild,8
+24,0,Dhaka,Other,3,2.75,0,Moderate,10,Moderate,20,Mild,9
+24,1,IUB,Engineering_CS,4,2.75,1,Severe,17,High ,29,Severe,24
+24,0,Dhaka,Biological_Sciences,3,3.2,0,Moderate,13,High ,27,Mild,8
+28,1,Dhaka,Other,3,2.75,0,Moderate,14,Moderate,22,No,0
+20,1,North_South,Engineering_CS,3,2.75,1,Mild,7,Moderate,15,Mild,9
+20,1,IUB,Engineering_CS,3,3.2,0,Severe,21,High ,34,Severe,27
+20,0,North_South,Engineering_CS,1,2.75,1,Moderate,13,Moderate,25,Moderately_Severe,18
+24,1,Dhaka,Environmental_Sciences,3,3.2,0,Minimal,1,Low,12,No,0
+20,1,North_South,Engineering_CS,1,3.9,1,Mild,7,Moderate,21,Mild,7
+24,0,IUB,Engineering_CS,3,3.2,0,Severe,18,High ,31,Severe,27
+24,1,Dhaka,Biological_Sciences,4,3.2,0,Mild,8,Moderate,18,Mild,9
+20,1,IUB,Engineering_CS,3,3.6,1,Severe,15,Moderate,21,Moderate,12
+20,0,Dhaka,Other,3,3.6,0,Severe,15,High ,33,Severe,23
+24,1,Dhaka,Biological_Sciences,3,3.9,0,Moderate,14,Moderate,21,Mild,6
+24,0,IUB,Engineering_CS,4,3.2,0,Severe,19,Moderate,20,Severe,21
+24,1,North_South,Engineering_CS,1,2.75,0,Severe,21,Moderate,19,Moderately_Severe,19
+24,0,Dhaka,Other,3,3.6,0,Moderate,11,Moderate,20,Mild,8
+20,1,Dhaka,Environmental_Sciences,3,2.75,0,Moderate,12,Moderate,24,Moderate,13
+24,1,North_South,Engineering_CS,3,3.2,0,Severe,15,High ,27,Severe,20
+20,1,IUB,Engineering_CS,3,3.9,1,Moderate,13,High ,27,Moderate,14
+20,1,IUB,Engineering_CS,3,3.6,1,Severe,21,Moderate,24,Severe,27
+20,1,North_South,Engineering_CS,3,3.2,0,Severe,21,High ,36,Severe,27
+20,1,IUB,Engineering_CS,3,2.75,1,Moderate,10,Moderate,20,Moderate,13
+24,1,North_South,Engineering_CS,3,3.2,0,Severe,16,Moderate,18,Moderate,12
+24,1,North_South,Engineering_CS,4,3.28,0,Severe,18,High ,29,Moderately_Severe,17
+20,0,Dhaka,Business,3,3.9,0,Severe,20,High ,32,Severe,22
+20,0,Dhaka,Other,3,3.6,0,Severe,21,High ,39,Severe,27
+20,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,21,Moderate,19,Moderately_Severe,15
+20,1,Dhaka,Other,2,3.2,0,Severe,21,High ,33,Moderately_Severe,18
+20,0,Dhaka,Business,2,3.6,0,Severe,20,High ,37,Severe,23
+20,0,Dhaka,Business,2,2.75,0,Mild,9,High ,34,Severe,21
+20,1,Dhaka,Business,2,3.2,0,Mild,8,Moderate,21,Severe,22
+20,1,Dhaka,Business,2,3.2,0,Severe,19,High ,32,Severe,20
+20,1,Dhaka,Business,3,3.2,0,Severe,19,High ,38,Severe,23
+20,1,Dhaka,Business,2,2.75,0,Severe,20,High ,35,Severe,24
+20,0,Dhaka,Business,2,2.75,0,Severe,15,High ,32,Severe,26
+20,0,Dhaka,Biological_Sciences,3,3.6,0,Mild,8,Moderate,21,Mild,8
+20,1,Dhaka,Business,2,3.6,0,Mild,7,Moderate,19,Minimal,4
+20,1,Dhaka,Other,2,3.6,0,Mild,9,Moderate,23,Moderately_Severe,19
+20,0,Dhaka,Business,2,3.2,0,Severe,16,High ,30,Moderately_Severe,17
+20,0,Dhaka,Biological_Sciences,3,3.6,0,Severe,21,Moderate,24,Severe,26
+20,1,Dhaka,Business,3,3.2,0,Mild,6,Moderate,19,Mild,8
+24,1,Dhaka,Other,4,3.2,0,Moderate,14,Moderate,23,Severe,20
+20,0,Dhaka,Other,2,2.75,0,Moderate,14,High ,35,Moderate,13
+20,1,Dhaka,Other,2,3.2,0,Moderate,12,High ,30,Moderate,13
+24,1,Dhaka,Other,3,3.2,0,Mild,6,Low,13,Mild,9
+24,1,Dhaka,Business,2,3.2,0,Severe,19,Moderate,23,Severe,20
+24,1,North_South,Engineering_EEE,4,3.2,0,Severe,16,High ,35,Severe,21
+24,1,Dhaka,Biological_Sciences,3,3.2,0,Severe,16,High ,38,Severe,21
+20,0,Dhaka,Business,2,3.9,0,Mild,8,Moderate,24,Minimal,3
+20,0,Dhaka,Other,2,3.9,0,Mild,8,Moderate,26,Moderate,14
+20,1,Dhaka,Biological_Sciences,3,3.2,0,Moderate,12,Moderate,20,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,4,3.6,0,Mild,7,Low,13,Mild,5
+24,1,AIUB,Engineering_CS,0,3.2,0,Moderate,11,Moderate,22,Moderately_Severe,16
+20,0,Dhaka,Business,3,3.2,0,Moderate,14,High ,39,Moderate,12
+24,1,AIUB,Engineering_CS,4,3.6,0,Mild,7,Moderate,21,Mild,9
+20,1,Dhaka,Other,2,2.75,0,Severe,21,High ,27,Severe,20
+20,0,AIUB,Engineering_CS,4,3.2,0,Severe,16,Moderate,22,Severe,20
+20,1,AIUB,Engineering_CS,3,3.6,0,Mild,7,Moderate,17,Moderate,12
+24,1,AIUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,18,Mild,5
+20,1,AIUB,Engineering_CS,2,3.9,0,Severe,15,Moderate,22,Severe,20
+24,0,AIUB,Engineering_CS,0,3.2,0,Mild,7,Moderate,21,Moderate,10
+20,1,AIUB,Engineering_CS,4,3.6,0,Mild,7,Moderate,18,Mild,9
+20,1,AIUB,Engineering_CS,1,3.9,0,Moderate,11,Moderate,23,Moderate,14
+24,1,DUET,Engineering_CS,4,3.6,0,Mild,5,Moderate,23,Moderately_Severe,19
+20,0,AIUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,18,Mild,9
+20,1,AIUB,Engineering_CS,3,3.9,0,Mild,9,Moderate,14,Mild,7
+20,0,AIUB,Engineering_CS,3,3.2,0,Moderate,13,Moderate,22,Moderate,11
+20,1,AIUB,Engineering_CS,3,3.6,1,Moderate,10,Moderate,16,Moderate,13
+24,1,AIUB,Engineering_CS,3,3.6,0,Mild,7,Moderate,24,Mild,7
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,17,High ,28,Moderately_Severe,19
+24,1,AIUB,Engineering_CS,3,3.6,0,Moderate,14,Moderate,22,Mild,9
+20,1,AIUB,Engineering_CS,2,3.6,0,Moderate,10,Moderate,15,Mild,7
+24,1,AIUB,Engineering_CS,4,3.2,0,Moderate,14,Moderate,20,Severe,23
+24,1,AIUB,Engineering_CS,0,2.25,0,Severe,21,High ,38,Severe,24
+24,1,BUET,Engineering_EEE,4,3.2,0,Mild,9,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,1,3.6,1,Mild,6,Moderate,18,Mild,7
+24,1,AIUB,Engineering_CS,3,3.6,0,Severe,16,Moderate,24,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,3,2.75,0,Minimal,2,Low,12,Mild,7
+20,0,AIUB,Engineering_CS,1,3.9,0,Mild,9,Moderate,23,Moderately_Severe,16
+24,1,BUET,Engineering_EEE,4,3.2,1,Severe,15,High ,34,Moderately_Severe,18
+24,1,BUET,Engineering_EEE,4,3.2,0,Mild,8,Moderate,19,Mild,6
+20,1,DUET,Engineering_CS,3,2.75,0,Severe,17,High ,31,Severe,20
+24,1,AIUB,Engineering_CS,4,3.6,0,Mild,8,Moderate,14,Minimal,4
+20,1,AIUB,Engineering_CS,2,3.6,0,Severe,21,High ,31,Severe,27
+20,1,Dhaka,Biological_Sciences,3,3.6,0,Moderate,10,Moderate,20,Moderate,12
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,7,Moderate,19,Mild,9
+20,1,AIUB,Engineering_CS,2,3.6,0,Moderate,13,Moderate,21,Minimal,3
+24,1,Dhaka,Business,0,3.6,0,Moderate,13,Moderate,21,Moderate,11
+24,1,BUET,Engineering_EEE,0,3.2,0,Severe,21,Moderate,26,Severe,22
+24,1,DUET,Engineering_CS,3,3.6,0,Severe,19,Moderate,15,Moderate,14
+28,1,Dhaka,Business,0,3.2,0,Moderate,14,High ,29,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,3,3.6,1,Moderate,14,Moderate,20,Moderately_Severe,17
+20,0,Dhaka,Business,2,3.6,0,Severe,16,High ,33,Severe,25
+24,1,DUET,Engineering_CS,3,3.2,0,Severe,18,Moderate,16,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.6,1,Minimal,1,Moderate,18,Minimal,2
+24,1,AIUB,Engineering_CS,4,3.9,0,Mild,8,Moderate,14,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,2,3.2,0,Mild,5,Moderate,16,Mild,7
+24,1,DUET,Engineering_CS,3,3.2,1,Moderate,14,Moderate,20,Moderate,10
+24,1,AIUB,Engineering_CS,2,3.6,1,Moderate,12,Moderate,17,Mild,8
+20,1,Dhaka,Business,2,2.75,0,Severe,21,High ,40,Severe,27
+24,1,AIUB,Engineering_CS,0,3.6,1,Minimal,3,Low,8,Moderate,10
+20,1,BUET,Engineering_EEE,4,3.6,0,Mild,9,Moderate,21,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,9,Moderate,19,Moderate,12
+20,0,AIUB,Engineering_CS,3,3.6,0,Severe,16,Moderate,26,Severe,23
+20,2,AIUB,Engineering_CS,2,3.6,0,Moderate,12,Moderate,19,Moderate,13
+20,1,Dhaka,Other,2,2.75,0,Severe,15,High ,30,Moderately_Severe,16
+24,1,DUET,Engineering_CS,3,3.6,0,Moderate,13,Moderate,15,Moderate,10
+20,0,IUB,Engineering_CS,4,3.2,0,Severe,20,High ,29,Severe,24
+20,1,Dhaka,Biological_Sciences,3,3.2,0,Moderate,11,Moderate,16,Moderate,11
+24,1,BUET,Engineering_EEE,4,3.6,0,Mild,7,Low,7,Minimal,2
+20,1,AIUB,Engineering_CS,2,3.9,1,Moderate,14,Moderate,25,Severe,25
+20,1,AIUB,Engineering_CS,4,3.2,1,Mild,9,Moderate,22,Moderate,11
+20,0,IUB,Engineering_CS,2,3.2,1,Severe,18,High ,33,Severe,26
+24,1,DUET,Engineering_CS,4,2.75,0,Severe,16,Moderate,20,Severe,21
+20,1,Dhaka,Business,2,3.6,0,Mild,6,Moderate,18,Mild,8
+24,1,IUB,Engineering_CS,4,2.75,0,Moderate,11,Moderate,16,Moderate,13
+20,0,Dhaka,Other,2,3.6,0,Moderate,11,Moderate,23,Moderately_Severe,15
+20,0,North_South,Engineering_CS,4,3.6,1,Mild,6,Moderate,18,Moderate,12
+24,1,DUET,Engineering_CS,4,3.6,0,Minimal,0,Moderate,16,No,0
+24,0,North_South,Engineering_CS,4,2.75,1,Moderate,13,High ,28,Mild,7
+24,1,AIUB,Engineering_CS,4,3.2,0,Moderate,11,Moderate,19,Moderately_Severe,17
+24,1,DUET,Engineering_CS,3,3.2,0,Moderate,11,Moderate,18,Moderately_Severe,17
+24,1,AIUB,Engineering_CS,4,3.2,0,Mild,5,Low,7,Minimal,3
+24,0,AIUB,Engineering_CS,2,3.6,0,Minimal,0,Moderate,15,Minimal,1
+20,0,AIUB,Engineering_CS,2,3.2,0,Mild,9,Low,11,Moderate,12
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,14,Moderate,17,Moderate,10
+20,0,Dhaka,Business,2,3.2,0,Severe,16,High ,31,Moderately_Severe,19
+24,0,Dhaka,Business,2,3.2,0,Mild,8,Moderate,21,Moderate,13
+24,0,Dhaka,Other,3,3.2,0,Moderate,10,Moderate,22,Mild,6
+20,0,North_South,Engineering_CS,3,3.2,0,Severe,17,Moderate,25,Moderate,12
+20,1,North_South,Engineering_CS,3,3.6,0,Severe,16,Moderate,14,Moderate,11
+24,1,AIUB,Engineering_CS,3,2.75,0,Moderate,13,Moderate,18,Moderate,14
+24,0,Dhaka,Business,4,3.2,0,Moderate,13,Moderate,17,Minimal,4
+20,0,Dhaka,Business,2,3.9,1,Mild,8,Moderate,24,Mild,9
+24,1,BUET,Engineering_EEE,3,2.75,1,Moderate,12,Moderate,20,Moderate,12
+24,0,IUB,Engineering_CS,3,3.6,1,Severe,18,Moderate,26,Moderately_Severe,19
+20,1,IUB,Other,2,3.6,0,Moderate,13,Moderate,23,Mild,9
+24,1,BUET,Engineering_EEE,4,3.2,0,Moderate,13,Moderate,20,Moderately_Severe,15
+24,1,BUET,Engineering_CS,4,3.6,1,Mild,6,Low,8,Minimal,4
+20,1,AIUB,Engineering_CS,4,3.6,0,Moderate,11,Moderate,21,Mild,8
+20,0,AIUB,Engineering_CS,2,3.6,0,Mild,8,Moderate,21,Moderate,12
+20,1,IUB,Engineering_CS,1,3.9,1,Moderate,12,High ,27,Moderate,13
+20,0,IUB,Engineering_CS,1,3.9,1,Severe,19,Moderate,19,Moderate,14
+24,1,AIUB,Engineering_CS,2,3.6,0,Moderate,13,Moderate,24,Severe,22
+20,0,AIUB,Engineering_CS,2,3.6,0,Severe,21,Moderate,21,Severe,22
+24,1,IUB,Engineering_CS,2,2.25,0,Severe,17,High ,29,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,11,Moderate,19,Moderate,11
+20,1,AIUB,Engineering_CS,3,3.6,0,Mild,5,Moderate,16,Moderate,13
+20,1,North_South,Engineering_CS,1,3.2,0,Severe,21,Moderate,24,Severe,27
+20,1,AIUB,Engineering_CS,2,3.6,0,Mild,5,Moderate,19,Mild,9
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,9,Moderate,25,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,14,Moderate,20,Moderate,13
+24,0,AIUB,Engineering_CS,4,3.2,0,Moderate,14,Moderate,22,Moderately_Severe,18
+24,1,AIUB,Engineering_CS,3,3.2,0,Severe,15,Moderate,19,Mild,7
+24,1,North_South,Engineering_EEE,3,3.2,0,Severe,19,High ,29,Severe,23
+20,1,IUB,Engineering_CS,1,3.2,0,Mild,7,Moderate,17,Minimal,2
+20,0,AIUB,Engineering_CS,1,3.9,0,Moderate,13,Low,9,Moderately_Severe,19
+20,0,AIUB,Engineering_CS,2,3.9,1,Mild,5,Moderate,15,Minimal,1
+20,0,North_South,Engineering_CS,3,3.2,1,Severe,18,High ,27,Moderately_Severe,16
+24,1,DUET,Engineering_CS,4,3.2,0,Moderate,12,Moderate,21,Moderate,13
+20,0,North_South,Engineering_CS,1,2.75,0,Moderate,12,Moderate,22,Moderate,11
+20,1,AIUB,Engineering_CS,2,3.2,0,Minimal,4,Moderate,14,Moderate,12
+20,1,IUB,Engineering_CS,3,2.25,0,Severe,15,Moderate,26,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,13,Moderate,24,Moderately_Severe,19
+20,0,Dhaka,Other,2,3.6,0,Moderate,13,Moderate,20,Moderately_Severe,18
+24,1,BUET,Engineering_Civil,0,3.6,0,Moderate,14,Moderate,20,Mild,6
+20,1,North_South,Engineering_CS,3,3.6,1,Moderate,11,Moderate,25,Moderately_Severe,15
+17,1,BUET,Engineering_CS,1,3.6,0,Mild,8,Low,12,Minimal,4
+24,0,IUB,Engineering_CS,3,3.2,1,Severe,16,Moderate,26,Moderately_Severe,18
+20,0,North_South,Engineering_CS,3,3.6,0,Moderate,13,Moderate,23,Severe,21
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,21,High ,29,Severe,20
+24,1,AIUB,Engineering_CS,4,2.75,0,Severe,15,Moderate,22,Severe,22
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,21,High ,32,Severe,25
+24,0,Dhaka,Biological_Sciences,3,3.6,0,Severe,17,High ,27,Severe,24
+20,0,IUB,Engineering_CS,3,3.9,1,Severe,21,Moderate,19,Severe,26
+20,1,Dhaka,Environmental_Sciences,3,3.2,0,Moderate,13,Moderate,25,Moderate,13
+20,1,AIUB,Engineering_CS,2,3.6,0,Moderate,10,Moderate,21,Moderately_Severe,16
+24,0,Dhaka,Biological_Sciences,3,3.2,0,Moderate,12,Moderate,24,Moderately_Severe,18
+24,0,Dhaka,Environmental_Sciences,3,3.6,0,Moderate,14,High ,38,Moderately_Severe,19
+20,0,DUET,Engineering_CS,3,2.75,0,Moderate,11,Moderate,16,Mild,6
+24,1,IUB,Engineering_CS,4,3.2,0,Severe,18,High ,30,Severe,21
+24,0,Dhaka,Environmental_Sciences,3,3.6,0,Severe,20,High ,34,Moderately_Severe,18
+20,0,Dhaka,Environmental_Sciences,4,3.2,0,Severe,17,High ,27,Moderate,11
+24,1,Dhaka,Biological_Sciences,3,2.75,0,Mild,9,Moderate,17,Moderate,13
+24,1,Dhaka,Biological_Sciences,3,2.75,0,Mild,7,Moderate,15,Moderate,13
+24,2,Dhaka,Environmental_Sciences,3,3.6,0,Moderate,13,Moderate,26,Moderately_Severe,17
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,7,Moderate,18,Minimal,4
+24,0,Dhaka,Biological_Sciences,3,3.6,0,Severe,17,High ,28,Severe,25
+24,0,Dhaka,Other,3,3.2,0,Moderate,12,Moderate,22,Moderately_Severe,16
+20,1,Dhaka,Environmental_Sciences,4,3.9,0,Mild,9,High ,28,Mild,8
+20,0,Dhaka,Biological_Sciences,3,3.9,0,Moderate,14,High ,27,Moderately_Severe,16
+20,1,Dhaka,Biological_Sciences,3,3.6,0,Minimal,4,Moderate,18,Mild,8
+20,0,Dhaka,Other,3,2.75,1,Mild,7,Moderate,18,Mild,9
+24,1,Dhaka,Biological_Sciences,3,3.2,1,Moderate,14,Moderate,18,Moderately_Severe,18
+24,1,Dhaka,Business,1,3.2,0,Moderate,14,Moderate,21,Moderate,12
+20,1,AIUB,Engineering_CS,4,2.75,0,Severe,21,Moderate,19,Severe,27
+20,0,Dhaka,Biological_Sciences,3,3.6,0,Severe,18,Moderate,26,Moderate,10
+20,0,Dhaka,Other,3,3.6,0,Mild,9,Moderate,17,Moderate,12
+20,1,North_South,Engineering_CS,3,3.2,0,Moderate,11,Moderate,25,Moderate,13
+20,0,AIUB,Engineering_CS,3,3.6,0,Moderate,14,High ,27,Moderate,13
+24,1,BUET,Engineering_EEE,0,3.6,0,Moderate,13,High ,27,Moderately_Severe,18
+20,0,AIUB,Engineering_CS,3,3.6,0,Severe,17,Moderate,26,Moderately_Severe,16
+20,1,Dhaka,Business,2,3.2,0,Moderate,14,Moderate,25,Moderate,14
+20,1,AIUB,Engineering_CS,1,3.9,1,Mild,9,Moderate,16,Mild,9
+20,1,IUB,Engineering_CS,3,3.2,1,Moderate,13,High ,34,Moderately_Severe,18
+24,1,AIUB,Engineering_CS,1,3.2,0,Moderate,13,Moderate,23,Moderately_Severe,18
+24,1,BUET,Engineering_EEE,4,3.6,1,Mild,9,Moderate,20,Mild,9
+24,1,BUET,Engineering_EEE,0,3.2,0,Mild,7,Low,8,Mild,8
+20,1,IUB,Engineering_CS,2,3.6,1,Severe,21,High ,37,Severe,27
+20,1,IUB,Engineering_CS,1,2.75,1,Mild,7,Moderate,20,Mild,9
+24,1,AIUB,Engineering_CS,4,3.6,0,Mild,8,Moderate,22,Moderate,11
+28,1,AIUB,Engineering_CS,4,3.9,1,Minimal,1,Low,0,No,0
+20,1,AIUB,Engineering_CS,4,3.2,0,Severe,15,Moderate,23,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,4,3.2,0,Severe,19,Moderate,24,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,4,3.6,0,Mild,6,Low,10,Mild,9
+20,1,AIUB,Engineering_CS,3,2.75,0,Moderate,14,Moderate,19,Severe,22
+24,1,AIUB,Engineering_CS,4,3.2,0,Minimal,4,Low,12,Moderate,10
+24,1,BUET,Engineering_EEE,0,3.2,0,Mild,7,Moderate,20,Mild,9
+24,1,North_South,Engineering_CS,4,2.75,0,Severe,17,Moderate,14,Severe,23
+20,0,BUET,Engineering_EEE,2,3.9,0,Mild,6,Moderate,22,Moderate,10
+20,1,BUET,Engineering_Civil,3,3.6,0,Mild,7,Moderate,17,Mild,9
+24,1,AIUB,Engineering_CS,4,3.9,0,Mild,7,Moderate,19,Mild,7
+20,0,IUB,Engineering_CS,3,2.75,1,Severe,21,High ,36,Severe,26
+24,1,BUET,Engineering_EEE,4,3.2,1,Minimal,0,Low,10,Minimal,4
+20,1,AIUB,Engineering_CS,4,3.6,0,Moderate,12,Moderate,23,Moderately_Severe,18
+24,0,AIUB,Engineering_CS,4,3.2,0,Severe,19,Moderate,25,Severe,27
+20,0,North_South,Engineering_CS,4,3.2,1,Severe,17,Moderate,16,Severe,23
+24,1,AIUB,Engineering_CS,4,3.9,0,Moderate,10,Moderate,19,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.2,0,Moderate,13,Moderate,17,Moderate,13
+24,1,IUB,Business,0,3.28,0,Severe,15,Moderate,22,Severe,23
+20,1,IUB,Engineering_CS,3,2.75,1,Minimal,0,Moderate,20,No,0
+24,1,IUB,Engineering_CS,4,2.25,1,Severe,20,High ,30,Moderately_Severe,16
+24,1,BUET,Engineering_EEE,4,3.2,0,Minimal,0,Moderate,22,No,0
+24,1,AIUB,Engineering_CS,4,3.2,0,Mild,8,Moderate,17,Moderate,11
+24,1,IUB,Engineering_CS,3,2.75,0,Mild,7,Moderate,20,Mild,9
+24,1,BUET,Engineering_Mechanical,4,3.6,1,Mild,8,Moderate,20,Moderate,14
+20,1,AIUB,Engineering_CS,2,3.6,0,Minimal,0,Moderate,20,Mild,9
+20,0,IUB,Engineering_CS,3,2.75,0,Moderate,10,Moderate,24,Moderately_Severe,17
+20,1,Dhaka,Other,2,2.75,0,Severe,18,High ,40,Severe,27
+24,1,AIUB,Engineering_EEE,4,3.2,0,Severe,17,High ,28,Severe,23
+20,1,AIUB,Engineering_CS,3,3.6,0,Mild,8,Moderate,16,Moderate,12
+20,1,IUB,Business,1,3.6,1,Severe,15,High ,29,Severe,20
+24,1,IUB,Engineering_CS,2,3.2,1,Mild,7,Moderate,23,Mild,8
+20,1,Dhaka,Business,2,3.2,0,Mild,7,Moderate,19,Moderately_Severe,18
+24,1,BUET,Engineering_EEE,4,3.2,0,Moderate,10,Moderate,20,Mild,7
+24,1,AIUB,Engineering_CS,3,2.75,0,Severe,18,Moderate,16,Severe,22
+20,0,IUB,Engineering_CS,2,2.25,0,Moderate,14,Moderate,23,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,4,3.2,0,Mild,5,Moderate,18,Minimal,4
+24,1,IUB,Engineering_CS,3,2.75,0,Severe,18,High ,35,Severe,23
+20,1,Dhaka,Other,2,3.6,0,Moderate,12,High ,27,Moderate,14
+20,1,AIUB,Engineering_CS,3,3.2,0,Mild,7,Moderate,18,Mild,9
+24,1,AIUB,Engineering_CS,3,3.2,0,Mild,7,Moderate,20,Mild,9
+24,1,AIUB,Engineering_CS,3,3.9,0,Severe,17,High ,29,Severe,23
+20,0,AIUB,Engineering_CS,3,3.9,1,Mild,6,Moderate,21,Mild,9
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,7,Moderate,17,Moderate,10
+24,1,AIUB,Engineering_CS,3,3.2,0,Minimal,0,Moderate,16,No,0
+20,0,AIUB,Engineering_CS,3,3.6,0,Minimal,4,Moderate,23,Minimal,1
+24,1,AIUB,Engineering_CS,0,3.2,0,Mild,9,Moderate,18,Moderately_Severe,17
+24,1,DUET,Engineering_Mechanical,3,3.2,0,Severe,21,Moderate,25,Severe,22
+20,1,AIUB,Engineering_CS,2,3.9,1,Moderate,11,Moderate,21,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,3,3.6,0,Mild,7,Moderate,17,Moderate,12
+24,1,AIUB,Engineering_CS,3,3.6,1,Minimal,2,Moderate,19,Mild,9
+24,1,AIUB,Engineering_CS,3,3.6,0,Mild,7,Moderate,17,Mild,9
+24,1,AIUB,Engineering_CS,3,3.6,0,Severe,16,Moderate,19,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,21,High ,40,Severe,24
+20,0,AIUB,Engineering_CS,3,3.6,0,Mild,5,Moderate,20,Mild,8
+24,1,AIUB,Engineering_CS,3,3.6,0,Severe,21,Moderate,19,Severe,27
+20,0,AIUB,Engineering_CS,4,3.6,0,Severe,16,High ,30,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,3,3.9,0,Minimal,3,Moderate,15,Mild,6
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,13,Moderate,23,Moderately_Severe,16
+24,0,IUB,Engineering_CS,3,2.75,1,Severe,19,High ,33,Severe,21
+24,1,AIUB,Engineering_CS,4,3.2,0,Minimal,2,Moderate,20,No,0
+20,1,AIUB,Engineering_CS,3,3.6,0,Mild,8,Low,11,Moderate,10
+24,1,AIUB,Engineering_CS,4,3.2,0,Minimal,1,Moderate,16,Minimal,1
+24,0,AIUB,Engineering_CS,3,3.9,0,Moderate,13,Moderate,20,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,14,Moderate,20,Mild,8
+20,0,AIUB,Engineering_CS,2,3.6,0,Mild,7,Moderate,25,Mild,9
+24,1,DUET,Engineering_EEE,3,3.6,0,Minimal,4,Low,13,Mild,7
+24,1,AIUB,Engineering_CS,4,3.6,0,Mild,9,Moderate,17,Mild,9
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,12,Moderate,16,Moderate,13
+24,1,BUET,Environmental_Sciences,4,2.25,0,Moderate,13,Low,12,Moderately_Severe,16
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,18,Moderate,25,Severe,26
+20,1,AIUB,Engineering_CS,3,3.9,0,Minimal,4,Moderate,16,Mild,6
+24,1,DUET,Engineering_Mechanical,4,3.2,0,Mild,7,Low,12,Mild,9
+24,0,IUB,Engineering_CS,3,3.2,1,Moderate,14,Moderate,22,Moderately_Severe,19
+24,1,DUET,Engineering_Mechanical,3,3.9,0,Mild,6,Moderate,19,Minimal,2
+20,1,AIUB,Engineering_CS,4,3.2,0,Moderate,11,Moderate,19,Moderately_Severe,15
+20,1,IUB,Engineering_CS,2,3.6,0,Moderate,12,Moderate,17,Moderate,14
+24,1,Dhaka,Biological_Sciences,4,3.28,0,Mild,7,Moderate,25,Moderately_Severe,15
+20,0,IUB,Engineering_CS,3,2.75,0,Severe,16,Moderate,17,Severe,20
+24,0,AIUB,Engineering_CS,4,2.75,0,Severe,17,Moderate,21,Moderate,14
+28,1,DUET,Engineering_Mechanical,4,3.2,1,Severe,15,Moderate,14,Moderate,12
+24,1,DUET,Engineering_Mechanical,4,3.2,0,Moderate,10,Moderate,20,Moderate,12
+20,0,IUB,Engineering_CS,3,3.2,0,Severe,21,Moderate,19,Severe,21
+24,1,IUB,Engineering_CS,2,3.2,0,Severe,18,High ,27,Severe,21
+20,0,IUB,Engineering_CS,2,2.75,1,Severe,21,High ,37,Severe,25
+20,0,IUB,Engineering_CS,2,2.75,0,Severe,20,High ,28,Moderately_Severe,18
+20,1,IUB,Engineering_CS,2,3.2,0,Severe,20,High ,29,Severe,21
+20,0,IUB,Engineering_CS,3,2.75,0,Severe,15,High ,36,Moderately_Severe,18
+24,0,DUET,Engineering_Mechanical,3,2.75,0,Moderate,11,Moderate,21,Moderately_Severe,15
+20,1,IUB,Engineering_CS,3,3.2,0,Moderate,10,Moderate,16,Mild,9
+20,1,IUB,Engineering_CS,2,3.2,0,Moderate,11,Moderate,24,Mild,7
+20,1,IUB,Engineering_CS,1,3.2,0,Moderate,10,Moderate,22,Mild,8
+20,0,IUB,Engineering_CS,3,3.2,0,Severe,20,High ,33,Severe,23
+20,0,IUB,Engineering_CS,3,3.2,1,Moderate,12,Moderate,25,Moderate,14
+20,0,North_South,Engineering_CS,3,3.2,0,Severe,21,High ,34,Severe,25
+20,1,AIUB,Engineering_CS,4,3.9,0,Mild,8,Moderate,23,Moderate,12
+24,1,DUET,Engineering_Mechanical,3,3.2,0,Severe,21,High ,27,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,4,3.6,0,Severe,21,Moderate,23,Severe,25
+24,1,DUET,Engineering_Mechanical,2,3.2,0,Mild,8,Moderate,19,Mild,5
+24,1,DUET,Engineering_Mechanical,3,2.75,0,Mild,6,Moderate,15,Mild,5
+20,1,AIUB,Engineering_CS,2,3.2,0,Severe,16,High ,30,Moderately_Severe,18
+24,0,AIUB,Engineering_CS,0,2.75,0,Mild,7,Moderate,20,Mild,9
+20,1,AIUB,Engineering_CS,2,3.2,0,Minimal,3,Low,8,Mild,7
+20,1,AIUB,Engineering_CS,3,3.9,1,Mild,6,Moderate,22,Mild,6
+20,2,BRAC,Engineering_CS,2,3.28,0,Severe,15,Moderate,21,Severe,20
+20,0,North_South,Engineering_CS,3,2.75,0,Moderate,14,Moderate,22,Moderately_Severe,16
+20,0,North_South,Engineering_CS,3,3.6,1,Moderate,10,Moderate,22,Severe,21
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,19,High ,35,Severe,24
+24,1,AIUB,Engineering_CS,4,3.2,0,Minimal,1,Low,13,Mild,9
+20,1,North_South,Engineering_CS,3,3.2,1,Severe,18,Moderate,24,Severe,22
+20,0,IUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,20,Mild,9
+24,0,North_South,Engineering_CS,4,3.2,0,Severe,21,High ,32,Severe,24
+24,0,AIUB,Engineering_CS,3,3.9,1,Mild,5,Moderate,15,Minimal,1
+20,0,IUB,Engineering_CS,1,2.75,1,Moderate,14,Moderate,19,Mild,7
+24,1,IUB,Engineering_CS,2,2.75,0,Moderate,13,Moderate,24,Severe,24
+20,0,IUB,Engineering_CS,1,2.75,0,Severe,21,High ,31,Moderately_Severe,19
+20,0,North_South,Engineering_EEE,3,3.6,1,Moderate,12,Moderate,21,Moderately_Severe,19
+20,1,IUB,Business,1,3.2,1,Minimal,4,Moderate,18,Mild,9
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,7,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,2,2.75,0,Mild,6,Moderate,21,Mild,8
+24,1,IUB,Engineering_CS,4,3.6,0,Severe,21,Moderate,23,Severe,26
+20,1,IUB,Engineering_EEE,1,3.2,0,Mild,7,Moderate,22,Mild,9
+20,1,IUB,Engineering_CS,1,2.25,0,Mild,8,Moderate,20,Moderately_Severe,18
+20,1,IUB,Engineering_CS,3,3.6,1,Severe,19,High ,35,Severe,21
+20,1,IUB,Engineering_CS,1,2.25,0,Mild,9,High ,28,Mild,7
+24,1,IUB,Engineering_CS,1,3.28,0,Mild,8,High ,29,Moderate,13
+20,1,North_South,Engineering_CS,3,3.2,0,Moderate,10,Moderate,19,Moderate,14
+20,0,Dhaka,Other,3,3.6,0,Mild,7,Moderate,19,Mild,8
+20,1,IUB,Engineering_CS,2,2.75,0,Mild,7,Moderate,22,Moderate,12
+20,1,AIUB,Engineering_CS,2,3.6,0,Moderate,11,Moderate,17,Moderate,12
+24,0,AIUB,Engineering_CS,3,3.9,1,Minimal,2,Moderate,18,Mild,5
+20,1,AIUB,Engineering_CS,4,3.6,0,Moderate,14,Moderate,18,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,13,Moderate,19,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,3,3.9,0,Mild,5,Low,10,Mild,7
+20,0,AIUB,Engineering_CS,3,3.9,1,Moderate,12,Moderate,21,Mild,7
+20,1,AIUB,Engineering_CS,3,3.6,0,Severe,16,High ,29,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,3,3.9,1,Mild,8,Moderate,17,Mild,9
+24,1,AIUB,Engineering_CS,4,3.2,0,Mild,8,Moderate,23,Mild,7
+20,1,AIUB,Engineering_CS,3,3.9,1,Severe,15,High ,29,Moderate,11
+20,1,AIUB,Engineering_CS,4,3.6,0,Mild,8,Moderate,17,Moderate,12
+24,1,AIUB,Engineering_CS,4,3.9,0,Moderate,14,High ,28,Moderately_Severe,16
+24,0,AIUB,Engineering_CS,4,3.2,0,Moderate,10,Moderate,25,Mild,6
+20,0,AIUB,Engineering_CS,4,3.9,1,Severe,20,High ,28,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,4,3.2,0,Moderate,13,Moderate,19,Mild,7
+20,0,North_South,Engineering_CS,1,2.75,0,Severe,17,Moderate,20,Moderately_Severe,19
+20,0,AIUB,Engineering_CS,3,3.6,0,Severe,15,High ,28,Severe,24
+24,0,AIUB,Engineering_CS,3,3.6,0,Mild,7,Moderate,19,Mild,9
+24,1,AIUB,Engineering_CS,4,3.2,0,Mild,8,Moderate,15,Moderate,11
+20,1,AIUB,Engineering_CS,4,3.6,0,Moderate,14,Moderate,20,Moderately_Severe,17
+20,0,AIUB,Engineering_CS,4,3.9,0,Mild,7,Moderate,17,Minimal,3
+24,2,AIUB,Engineering_CS,4,3.6,0,Mild,7,Moderate,26,Moderate,10
+24,1,AIUB,Engineering_CS,4,2.75,0,Moderate,10,Moderate,20,Moderate,14
+24,1,AIUB,Engineering_CS,3,3.2,0,Moderate,10,Low,12,Moderate,14
+20,1,AIUB,Engineering_CS,3,3.9,1,Severe,18,Moderate,25,Severe,23
+20,1,North_South,Engineering_CS,2,2.25,0,Minimal,1,Moderate,20,Minimal,3
+24,1,AIUB,Engineering_CS,4,3.2,0,Mild,9,Moderate,19,Mild,8
+20,1,North_South,Engineering_CS,1,3.2,1,Moderate,12,Moderate,22,Moderate,10
+24,1,AIUB,Engineering_CS,3,3.9,0,Mild,7,Moderate,20,Mild,9
+20,1,North_South,Engineering_CS,1,3.6,0,Moderate,13,Moderate,20,Mild,7
+20,1,AIUB,Engineering_CS,4,3.6,0,Mild,9,Moderate,15,Moderate,14
+24,0,AIUB,Engineering_CS,4,3.6,0,Severe,21,Moderate,20,Moderate,11
+20,1,AIUB,Engineering_CS,4,3.2,0,Mild,6,Moderate,24,Moderate,14
+24,1,AIUB,Engineering_CS,4,3.6,0,Severe,16,Moderate,20,Severe,25
+20,1,AIUB,Engineering_CS,4,3.9,0,Moderate,13,Moderate,19,Moderately_Severe,18
+20,1,IUB,Engineering_CS,1,3.2,1,Minimal,0,Low,13,Minimal,4
+20,0,IUB,Engineering_CS,1,2.75,0,Mild,8,Moderate,25,Mild,6
+24,1,DUET,Engineering_Mechanical,3,3.6,0,Mild,9,Moderate,14,Mild,7
+20,1,IUB,Engineering_CS,3,3.6,1,Mild,9,Moderate,24,Moderately_Severe,15
+20,0,North_South,Engineering_CS,1,2.25,0,Severe,20,High ,33,Moderately_Severe,18
+20,1,IUB,Engineering_CS,1,3.6,0,Moderate,12,Moderate,19,Mild,9
+20,1,AIUB,Engineering_CS,2,3.2,1,Minimal,4,Moderate,21,Moderate,10
+24,0,IUB,Business,4,2.75,0,Severe,19,Moderate,22,Severe,22
+20,1,AIUB,Engineering_CS,3,3.2,0,Mild,7,Moderate,20,Mild,9
+20,1,AIUB,Engineering_CS,3,3.6,0,Severe,21,High ,31,Severe,27
+20,0,AIUB,Engineering_CS,3,3.6,1,Minimal,0,Moderate,18,No,0
+24,1,AIUB,Engineering_CS,3,3.6,0,Minimal,0,Moderate,16,No,0
+20,1,AIUB,Engineering_CS,3,3.6,0,Severe,15,Moderate,17,Severe,22
+24,1,AIUB,Engineering_CS,3,3.6,0,Minimal,3,Moderate,23,Mild,6
+20,1,AIUB,Engineering_CS,2,3.6,1,Moderate,10,Moderate,20,Mild,9
+24,0,AIUB,Engineering_CS,0,2.75,0,Moderate,11,Moderate,20,Moderate,12
+24,1,AIUB,Engineering_CS,3,3.6,0,Moderate,13,Moderate,25,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,2,3.9,1,Mild,9,Moderate,15,Minimal,4
+24,1,AIUB,Engineering_CS,3,3.9,1,Mild,9,Moderate,14,Moderate,14
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,11,High ,28,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,11,High ,38,Moderate,14
+20,0,AIUB,Engineering_CS,3,3.2,0,Mild,9,Moderate,21,Mild,8
+20,1,AIUB,Engineering_CS,3,3.6,0,Severe,17,Moderate,25,Severe,23
+20,1,AIUB,Engineering_CS,3,3.2,0,Minimal,4,Moderate,22,Moderate,11
+20,1,AIUB,Engineering_CS,2,3.9,0,Severe,16,Moderate,22,Moderately_Severe,16
+24,1,AIUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,19,Mild,7
+24,1,AIUB,Engineering_CS,3,3.6,0,Mild,7,Moderate,17,Mild,8
+24,1,DUET,Engineering_Mechanical,3,3.2,0,Moderate,13,Moderate,24,Moderate,14
+20,0,AIUB,Engineering_CS,3,3.2,0,Moderate,12,High ,30,Moderately_Severe,17
+20,0,AIUB,Engineering_CS,3,3.2,0,Moderate,11,Moderate,25,Mild,6
+20,1,AIUB,Engineering_CS,3,3.6,0,Severe,15,Moderate,22,Moderate,11
+20,1,AIUB,Engineering_CS,3,3.2,0,Minimal,0,Moderate,15,No,0
+20,0,IUB,Engineering_CS,1,3.6,1,Moderate,12,Moderate,16,Moderate,11
+24,1,AIUB,Engineering_CS,3,3.9,1,Severe,19,High ,27,Moderate,13
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,12,Moderate,23,Moderate,12
+20,0,AIUB,Engineering_CS,3,3.6,0,Minimal,0,Moderate,20,Minimal,4
+20,1,AIUB,Engineering_CS,3,3.6,1,Moderate,13,Moderate,23,Moderately_Severe,17
+24,1,DUET,Engineering_Mechanical,3,2.75,1,Moderate,10,Moderate,25,Mild,7
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,13,Moderate,17,Severe,20
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,10,Moderate,17,Moderate,14
+20,1,DUET,Engineering_Other,2,2.75,1,Minimal,0,Moderate,20,Moderate,14
+24,1,AIUB,Engineering_CS,3,3.9,1,Moderate,11,Low,10,Mild,8
+20,0,IUB,Engineering_CS,2,2.75,1,Moderate,14,High ,28,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,4,3.2,0,Moderate,14,Moderate,18,Moderately_Severe,15
+20,0,AIUB,Engineering_CS,3,3.6,0,Severe,16,Moderate,19,Moderately_Severe,16
+24,1,DUET,Engineering_Mechanical,4,3.9,0,Moderate,14,Moderate,19,Mild,9
+20,1,AIUB,Engineering_CS,3,3.6,0,Mild,9,Moderate,21,Moderately_Severe,15
+20,1,DUET,Engineering_EEE,2,3.6,0,Mild,9,Low,10,Moderate,11
+20,0,North_South,Engineering_CS,3,3.6,0,Moderate,12,Moderate,22,Mild,9
+24,1,North_South,Engineering_CS,4,2.25,0,Severe,15,High ,31,Moderately_Severe,15
+24,0,North_South,Engineering_CS,4,3.2,0,Moderate,10,Moderate,20,Mild,9
+24,0,North_South,Engineering_CS,4,2.75,0,Moderate,14,High ,30,Moderately_Severe,16
+24,0,North_South,Engineering_CS,4,2.75,0,Severe,20,High ,33,Moderately_Severe,19
+24,1,BUET,Engineering_EEE,0,3.9,1,Moderate,13,Moderate,23,Moderate,10
+24,1,North_South,Engineering_CS,4,2.75,0,Mild,7,Moderate,14,Moderate,11
+24,1,BUET,Engineering_Civil,4,2.25,0,Severe,21,High ,33,Severe,23
+20,1,IUB,Engineering_CS,3,3.2,1,Severe,21,High ,38,Moderately_Severe,18
+24,1,BUET,Engineering_EEE,4,3.6,0,Moderate,11,Moderate,15,Moderate,11
+20,1,AIUB,Engineering_CS,2,3.2,0,Moderate,13,Moderate,19,Moderate,13
+24,1,BUET,Engineering_EEE,0,3.6,0,Severe,19,High ,28,Severe,24
+20,0,IUB,Engineering_CS,1,3.28,0,Moderate,12,Low,13,Mild,5
+24,1,North_South,Engineering_CS,4,2.25,0,Mild,8,Moderate,18,Mild,8
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,19,High ,28,Severe,21
+24,1,BUET,Engineering_EEE,0,3.6,1,Mild,7,Moderate,22,Mild,5
+24,1,DUET,Engineering_Mechanical,3,2.75,0,Mild,5,Moderate,21,Mild,7
+20,1,North_South,Engineering_CS,3,3.6,1,Moderate,11,Moderate,16,Moderate,11
+24,1,IUB,Engineering_CS,3,3.6,1,Severe,21,High ,33,Severe,22
+20,1,AIUB,Engineering_CS,3,3.6,1,Moderate,14,Moderate,22,Moderately_Severe,16
+24,1,AIUB,Engineering_CS,0,3.2,0,Moderate,10,Moderate,17,Mild,7
+20,1,AIUB,Engineering_CS,1,2.75,0,Moderate,12,Moderate,24,Moderate,14
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,18,High ,29,Severe,22
+20,1,AIUB,Engineering_CS,4,3.2,0,Moderate,12,Moderate,20,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,3,3.6,0,Minimal,2,Moderate,16,Moderately_Severe,17
+24,1,North_South,Engineering_CS,4,2.25,0,Moderate,11,Moderate,23,Moderate,12
+24,1,AIUB,Engineering_CS,3,2.75,0,Mild,7,Low,13,Mild,6
+20,0,IUB,Engineering_CS,1,2.75,1,Mild,5,Moderate,20,Minimal,4
+24,1,North_South,Engineering_CS,3,3.6,0,Severe,16,Moderate,25,Severe,20
+20,0,North_South,Engineering_CS,1,2.75,1,Mild,7,Moderate,16,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Minimal,0,Moderate,20,Severe,24
+24,0,AIUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,21,Mild,9
+20,0,North_South,Engineering_CS,1,3.2,0,Mild,8,Moderate,24,Mild,8
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,16,High ,32,Severe,25
+20,1,North_South,Engineering_CS,1,3.2,0,Mild,7,Moderate,19,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.9,0,Moderate,13,Moderate,15,Moderately_Severe,15
+24,1,IUB,Engineering_CS,4,2.75,1,Moderate,12,Moderate,21,Moderate,13
+24,1,AIUB,Engineering_CS,4,2.75,0,Moderate,11,High ,34,Moderate,13
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,14,Moderate,20,Moderately_Severe,18
+24,0,AIUB,Engineering_CS,4,3.2,0,Severe,17,Moderate,19,Severe,26
+24,1,DUET,Engineering_Mechanical,3,3.2,0,Moderate,14,Moderate,18,Moderately_Severe,18
+20,1,North_South,Engineering_CS,3,3.2,0,Severe,16,Moderate,25,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,14,Moderate,21,Moderate,14
+24,0,Dhaka,Biological_Sciences,3,3.6,0,Severe,18,High ,27,Severe,26
+24,0,North_South,Engineering_CS,4,2.75,0,Moderate,10,Moderate,20,Moderate,14
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,20,High ,34,Severe,22
+20,0,AIUB,Engineering_CS,3,3.2,0,Severe,21,High ,27,Severe,24
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,21,High ,29,Severe,25
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Moderate,13,High ,34,Severe,22
+24,1,Dhaka,Biological_Sciences,4,3.6,0,Severe,18,High ,29,Severe,20
+20,0,North_South,Engineering_CS,3,2.75,0,Mild,7,High ,27,Moderate,13
+24,1,Dhaka,Biological_Sciences,4,3.6,0,Severe,19,Moderate,20,Moderately_Severe,19
+24,0,IUB,Engineering_CS,3,3.6,0,Severe,17,High ,28,Severe,22
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,15,Moderate,26,Moderately_Severe,19
+24,1,Dhaka,Biological_Sciences,4,3.2,0,Moderate,14,Moderate,19,Mild,8
+24,0,Dhaka,Environmental_Sciences,4,3.6,0,Severe,16,High ,35,Severe,24
+24,1,Dhaka,Biological_Sciences,4,3.2,0,Moderate,10,Moderate,22,Mild,9
+24,1,DUET,Engineering_CS,2,2.75,0,Moderate,13,Moderate,26,Moderately_Severe,17
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,17,Moderate,26,Severe,20
+24,1,IUB,Engineering_CS,3,3.2,1,Mild,5,Moderate,17,Moderate,13
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Mild,6,Moderate,17,Moderate,10
+24,0,Dhaka,Other,4,3.2,0,Severe,20,High ,40,Severe,23
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,17,Moderate,18,Moderately_Severe,18
+24,1,Dhaka,Biological_Sciences,4,3.6,0,Mild,5,Moderate,15,Mild,6
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,21,High ,37,Severe,23
+24,1,North_South,Engineering_CS,0,3.2,0,Minimal,0,Low,3,Minimal,1
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,17,High ,33,Moderately_Severe,18
+20,0,Dhaka,Biological_Sciences,3,3.6,0,Moderate,14,Moderate,17,Severe,21
+24,0,Dhaka,Biological_Sciences,3,3.6,1,Severe,20,Moderate,21,Moderately_Severe,15
+24,1,DUET,Engineering_Mechanical,3,3.2,0,Minimal,4,Moderate,19,Mild,5
+20,1,IUB,Engineering_CS,1,2.25,1,Severe,16,Moderate,21,Severe,25
+24,1,North_South,Engineering_CS,4,2.75,0,Minimal,4,Moderate,22,Mild,6
+20,0,North_South,Engineering_CS,4,3.6,1,Moderate,11,High ,32,Moderately_Severe,16
+24,1,IUB,Engineering_CS,4,2.75,0,Moderate,14,Moderate,23,Severe,25
+24,0,AIUB,Engineering_CS,3,3.2,0,Severe,16,High ,28,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,6,Moderate,16,Moderate,12
+20,0,Dhaka,Other,4,3.2,0,Mild,8,High ,27,Moderate,12
+24,1,Dhaka,Biological_Sciences,4,3.6,0,Severe,20,High ,33,Severe,21
+24,1,DUET,Engineering_Mechanical,3,3.6,0,Moderate,11,Moderate,19,Mild,8
+24,0,North_South,Engineering_CS,3,2.25,0,Moderate,12,Moderate,24,Moderate,11
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,19,Moderate,22,Mild,8
+20,0,North_South,Engineering_CS,4,3.2,0,Mild,7,Moderate,20,Mild,9
+24,1,North_South,Engineering_CS,1,2.75,0,Mild,9,Low,12,Mild,9
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,17,Moderate,22,Moderately_Severe,19
+24,1,AIUB,Engineering_CS,4,3.2,0,Moderate,11,Moderate,14,Moderate,11
+20,1,AIUB,Engineering_CS,2,3.2,0,Severe,21,Moderate,24,Severe,27
+20,0,North_South,Engineering_CS,3,3.2,0,Moderate,10,Moderate,17,Mild,8
+24,1,North_South,Engineering_CS,4,3.2,0,Mild,8,Moderate,20,Moderate,10
+24,1,North_South,Engineering_CS,4,3.6,0,Moderate,11,Moderate,14,Moderate,12
+20,1,North_South,Engineering_CS,4,3.6,0,Moderate,11,Moderate,25,Moderate,14
+24,0,IUB,Engineering_CS,3,3.6,1,Severe,17,High ,31,Moderately_Severe,17
+20,0,North_South,Engineering_CS,3,2.75,1,Severe,21,High ,36,Severe,24
+20,1,AIUB,Engineering_CS,1,2.75,0,Severe,21,High ,30,Severe,23
+20,0,AIUB,Engineering_CS,2,3.9,1,Severe,21,Moderate,22,Severe,23
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,19,High ,27,Severe,22
+20,1,Dhaka,Business,2,3.2,0,Severe,21,High ,40,Severe,26
+24,1,DUET,Engineering_Mechanical,2,2.75,1,Moderate,14,Moderate,21,Severe,26
+24,0,Dhaka,Biological_Sciences,4,2.75,0,Severe,21,High ,39,Severe,23
+20,1,North_South,Engineering_CS,2,2.75,0,Moderate,14,High ,32,Severe,20
+20,0,IUB,Engineering_CS,2,2.75,0,Mild,7,Moderate,17,Mild,8
+20,0,North_South,Engineering_CS,4,2.75,1,Moderate,11,Moderate,20,Mild,9
+20,0,North_South,Engineering_EEE,1,2.75,0,Moderate,14,Moderate,20,Moderate,10
+20,1,AIUB,Engineering_CS,2,3.9,1,Moderate,13,Low,12,Moderate,12
+20,1,IUB,Business,1,2.75,0,Severe,18,High ,34,Severe,20
+24,1,IUB,Engineering_CS,3,2.75,1,Severe,21,Moderate,26,Severe,27
+20,0,IUB,Engineering_CS,3,2.75,0,Moderate,12,Moderate,19,Moderate,10
+20,0,North_South,Engineering_CS,1,3.2,0,Moderate,11,Moderate,26,Moderate,12
+20,1,IUB,Engineering_CS,2,3.6,1,Severe,18,Moderate,21,Severe,23
+20,1,IUB,Engineering_CS,3,2.75,0,Moderate,12,Moderate,23,Moderately_Severe,16
+24,1,IUB,Engineering_CS,2,2.75,0,Moderate,11,Moderate,18,Mild,7
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,13,Moderate,20,Moderately_Severe,18
+24,1,IUB,Business,2,3.2,0,Moderate,13,Moderate,18,Moderately_Severe,18
+20,1,IUB,Engineering_CS,3,2.25,0,Moderate,13,Moderate,19,Moderately_Severe,17
+24,0,IUB,Engineering_CS,3,3.2,0,Severe,21,Moderate,26,Severe,22
+20,0,IUB,Engineering_CS,2,3.2,1,Severe,19,Moderate,23,Severe,23
+20,1,IUB,Engineering_CS,2,2.25,0,Minimal,0,Moderate,21,No,0
+20,0,AIUB,Engineering_CS,3,3.6,0,Moderate,13,High ,27,Moderate,13
+20,1,IUB,Engineering_CS,2,2.75,0,Mild,5,Low,8,Minimal,2
+24,1,AIUB,Engineering_CS,4,3.6,0,Moderate,14,Moderate,22,Moderately_Severe,15
+24,1,IUB,Engineering_CS,4,2.75,0,Severe,21,Moderate,24,Severe,27
+20,1,AIUB,Engineering_CS,3,3.9,1,Mild,9,Low,13,Mild,6
+20,1,IUB,Engineering_CS,2,3.2,0,Severe,21,High ,35,Severe,23
+20,1,AIUB,Engineering_CS,1,3.9,0,Minimal,4,Low,10,Minimal,4
+20,1,AIUB,Engineering_CS,4,3.9,0,Severe,17,High ,27,Severe,22
+24,0,IUB,Engineering_CS,3,3.6,1,Mild,9,Moderate,19,Moderately_Severe,19
+20,0,IUB,Engineering_CS,2,3.6,1,Severe,17,High ,31,Severe,21
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,13,High ,33,Moderate,11
+24,1,North_South,Engineering_CS,4,2.25,0,Minimal,0,Moderate,20,No,0
+20,0,IUB,Engineering_CS,2,2.75,0,Severe,15,High ,29,Severe,20
+24,1,IUB,Engineering_CS,3,3.9,0,Severe,19,Moderate,21,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,17,High ,33,Severe,20
+20,0,IUB,Engineering_CS,1,3.2,1,Moderate,12,High ,30,Moderately_Severe,18
+24,1,Dhaka,Biological_Sciences,4,2.75,0,Severe,17,High ,34,Severe,22
+20,1,IUB,Engineering_CS,3,2.75,0,Moderate,12,High ,28,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,8,Moderate,17,Mild,6
+20,0,AIUB,Engineering_CS,3,3.6,1,Mild,8,Moderate,16,Moderate,12
+24,1,AIUB,Engineering_CS,4,3.6,0,Severe,15,Moderate,23,Severe,21
+20,0,IUB,Engineering_CS,3,2.25,0,Severe,17,Moderate,24,Moderate,12
+20,1,AIUB,Engineering_CS,4,3.9,0,Severe,18,High ,34,Severe,24
+20,1,North_South,Engineering_CS,1,3.6,1,Moderate,13,Moderate,22,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.9,0,Moderate,10,Moderate,19,Severe,21
+24,1,IUB,Engineering_CS,3,3.6,0,Moderate,14,Moderate,24,Moderately_Severe,18
+20,0,AIUB,Engineering_CS,1,3.2,0,Severe,16,Moderate,15,Moderate,13
+20,0,AIUB,Engineering_CS,2,3.9,0,Severe,16,Moderate,16,Mild,7
+24,0,IUB,Engineering_CS,2,3.2,1,Severe,20,High ,28,Severe,26
+24,1,IUB,Engineering_CS,3,2.25,0,Severe,17,High ,32,Severe,27
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,15,High ,28,Moderate,11
+24,1,IUB,Business,4,2.75,0,Severe,18,High ,28,Severe,27
+24,0,Dhaka,Environmental_Sciences,4,3.6,0,Moderate,10,Moderate,22,Mild,8
+24,1,DUET,Engineering_Mechanical,2,3.2,1,Mild,5,Moderate,22,Moderate,11
+20,0,IUB,Engineering_CS,2,3.6,1,Severe,17,Moderate,24,Moderately_Severe,19
+24,1,DUET,Engineering_CS,3,3.2,0,Mild,7,Moderate,15,Mild,6
+24,1,IUB,Engineering_CS,3,3.2,0,Moderate,13,Moderate,23,Moderately_Severe,16
+20,1,IUB,Engineering_CS,3,2.75,0,Minimal,0,Moderate,20,No,0
+24,1,Dhaka,Other,4,3.6,0,Moderate,10,High ,31,Minimal,3
+20,1,IUB,Engineering_CS,3,2.25,1,Severe,20,Moderate,22,Severe,20
+20,1,AIUB,Engineering_CS,1,3.9,0,Moderate,14,Moderate,25,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,11,Moderate,18,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,14,Moderate,18,Severe,21
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,8,Moderate,17,Moderate,11
+20,1,AIUB,Engineering_CS,1,2.75,0,Minimal,4,Moderate,20,Minimal,1
+20,1,AIUB,Engineering_CS,0,3.2,0,Severe,20,Moderate,24,Severe,21
+20,1,AIUB,Engineering_CS,2,3.6,0,Moderate,11,Moderate,22,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,9,Moderate,18,Mild,8
+20,0,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,17,Mild,9
+20,0,IUB,Engineering_CS,1,3.6,1,Severe,15,High ,27,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,15,Moderate,21,Moderate,12
+24,1,Dhaka,Other,4,3.2,0,Severe,17,High ,34,Moderate,10
+20,1,AIUB,Engineering_CS,2,3.2,0,Moderate,11,Moderate,22,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,16,High ,29,Moderately_Severe,17
+20,1,IUB,Engineering_CS,1,3.9,1,Severe,21,Moderate,24,Severe,27
+20,0,IUB,Engineering_CS,3,2.25,0,Moderate,13,Moderate,24,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,16,Low,11,Mild,8
+28,1,DUET,Engineering_CS,4,3.2,0,Minimal,4,Moderate,16,Minimal,4
+28,1,DUET,Engineering_CS,0,3.28,0,Moderate,12,Moderate,23,Moderate,12
+28,1,DUET,Engineering_CS,4,2.75,0,Severe,18,Moderate,26,Moderate,10
+20,0,AIUB,Engineering_CS,3,3.9,1,Severe,18,High ,30,Severe,20
+24,1,IUB,Engineering_CS,3,2.75,0,Mild,8,Moderate,26,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,9,Moderate,16,Mild,6
+20,1,Rajshahi,Engineering_CS,3,3.2,1,Severe,17,Moderate,24,Moderately_Severe,16
+20,0,AIUB,Engineering_CS,1,3.9,0,Mild,9,Moderate,14,Severe,20
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,22,Moderate,10
+20,0,AIUB,Engineering_CS,1,3.2,0,Moderate,11,Moderate,16,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,5,Moderate,18,Minimal,3
+20,0,AIUB,Engineering_CS,1,3.6,0,Moderate,12,Moderate,18,Severe,21
+20,1,AIUB,Engineering_CS,4,3.9,0,Moderate,11,Low,10,Mild,8
+20,1,AIUB,Engineering_CS,1,3.28,0,Moderate,11,Moderate,20,Moderate,12
+24,0,AIUB,Engineering_CS,3,3.2,1,Mild,9,Moderate,15,Severe,23
+20,1,AIUB,Engineering_CS,1,3.28,0,Mild,7,Moderate,20,Mild,9
+20,1,AIUB,Engineering_CS,0,3.28,0,Mild,7,Moderate,22,Moderate,13
+24,1,AIUB,Engineering_CS,4,3.6,0,Severe,21,High ,37,Severe,21
+20,1,AIUB,Engineering_CS,1,2.75,0,Severe,17,Moderate,25,Severe,23
+24,1,AIUB,Engineering_CS,1,3.2,0,Moderate,14,Moderate,21,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.6,0,Minimal,3,Low,13,Mild,8
+20,1,AIUB,Engineering_CS,1,3.28,0,Minimal,0,Moderate,16,Mild,8
+20,0,AIUB,Engineering_CS,1,3.6,0,Moderate,13,Moderate,20,Moderately_Severe,17
+20,0,AIUB,Engineering_CS,4,3.2,0,Mild,5,Moderate,17,Mild,6
+20,0,IUB,Engineering_CS,2,2.75,0,Severe,18,High ,33,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,20,Moderate,12
+24,1,AIUB,Engineering_CS,3,3.2,0,Moderate,14,Moderate,22,Mild,9
+20,1,North_South,Engineering_CS,4,3.2,0,Moderate,13,Low,13,Mild,9
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,16,Mild,8
+20,0,IUB,Engineering_CS,3,3.6,1,Severe,20,High ,28,Severe,20
+20,0,AIUB,Engineering_CS,1,3.28,0,Minimal,2,Moderate,14,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,9,High ,29,Mild,9
+20,0,IUB,Engineering_CS,2,3.2,1,Severe,20,High ,28,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.28,0,Mild,7,Moderate,18,Minimal,3
+24,1,DUET,Engineering_CS,0,2.75,0,Moderate,11,Moderate,23,Mild,8
+17,0,AIUB,Engineering_CS,1,3.28,0,Minimal,1,Low,5,Mild,9
+20,1,AIUB,Engineering_CS,1,3.28,0,Minimal,2,Low,7,Minimal,2
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,10,Moderate,26,Moderate,10
+20,1,IUB,Engineering_CS,2,3.2,1,Severe,15,Moderate,23,Moderate,13
+20,0,IUB,Engineering_CS,1,2.75,1,Moderate,12,Moderate,26,Moderately_Severe,18
+20,1,IUB,Engineering_CS,1,3.6,0,Minimal,0,Moderate,20,No,0
+20,1,AIUB,Engineering_CS,1,3.28,0,Minimal,0,Moderate,18,Mild,6
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,13,Moderate,20,Moderately_Severe,18
+28,1,BUET,Engineering_CS,1,3.2,0,Moderate,10,Moderate,23,Moderate,14
+20,0,AIUB,Engineering_CS,1,3.28,0,Moderate,10,Moderate,20,Moderate,14
+20,1,AIUB,Engineering_CS,1,3.2,1,Minimal,0,Moderate,16,No,0
+20,1,IUB,Engineering_CS,2,2.75,0,Minimal,2,Low,10,Minimal,4
+20,1,IUB,Engineering_CS,2,2.75,0,Mild,7,Moderate,18,Mild,9
+20,1,IUB,Engineering_CS,3,2.25,0,Severe,15,High ,27,Moderately_Severe,16
+20,0,AIUB,Engineering_CS,1,3.6,0,Minimal,1,Low,12,Mild,6
+20,1,AIUB,Engineering_CS,1,3.9,0,Minimal,3,Low,13,Mild,8
+20,1,IUB,Engineering_CS,2,2.75,0,Mild,6,Moderate,23,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,14,Moderate,25,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.9,0,Minimal,2,Low,11,Mild,5
+24,1,IUB,Business,2,3.2,1,Mild,7,Moderate,20,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.28,0,Severe,15,High ,32,Severe,21
+20,1,AIUB,Engineering_CS,1,3.28,0,Moderate,10,Moderate,21,Severe,26
+20,1,IUB,Engineering_CS,2,3.2,0,Mild,6,Moderate,19,Moderately_Severe,15
+20,0,AIUB,Engineering_CS,1,3.28,0,Minimal,2,Low,12,Mild,8
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,12,Moderate,21,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,20,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,9,Moderate,14,Mild,6
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,9,Moderate,22,Moderately_Severe,18
+20,0,AIUB,Engineering_CS,1,3.28,0,Minimal,4,Low,3,Mild,5
+20,1,AIUB,Engineering_CS,0,3.28,0,Severe,21,Moderate,25,Severe,25
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,18,High ,30,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,1,3.28,0,Moderate,10,Moderate,18,Moderate,14
+24,1,AIUB,Engineering_CS,1,3.9,0,Mild,9,Moderate,24,Moderately_Severe,18
+20,0,IUB,Engineering_CS,4,3.2,0,Mild,9,Moderate,20,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.28,0,Moderate,10,Moderate,19,Moderate,11
+20,1,IUB,Engineering_CS,3,3.6,0,Severe,20,High ,29,Severe,25
+20,0,AIUB,Engineering_CS,1,3.6,0,Severe,21,High ,31,Severe,26
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,5,Low,13,Mild,9
+20,1,AIUB,Engineering_CS,1,3.28,0,Mild,6,Moderate,16,Mild,7
+20,1,AIUB,Engineering_CS,1,3.2,0,Minimal,1,Moderate,26,Mild,5
+20,0,IUB,Engineering_CS,4,3.2,1,Moderate,14,Moderate,18,Moderate,12
+20,0,AIUB,Engineering_CS,1,3.9,0,Moderate,11,Moderate,21,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.6,0,Minimal,0,Moderate,16,No,0
+20,1,Rajshahi,Engineering_CS,1,3.2,0,Mild,7,Moderate,14,Moderate,12
+20,1,IUB,Engineering_CS,2,2.75,0,Mild,8,Moderate,15,Moderate,14
+20,1,IUB,Engineering_CS,2,3.2,0,Severe,15,Moderate,24,Severe,21
+20,0,IUB,Business,1,3.2,0,Moderate,12,High ,29,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,15,Moderate,25,Moderately_Severe,15
+24,1,IUB,Engineering_CS,4,3.2,1,Severe,18,High ,30,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,7,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,4,3.2,0,Severe,21,High ,31,Moderately_Severe,16
+20,0,IUB,Engineering_CS,1,3.6,0,Severe,21,High ,36,Severe,24
+20,0,IUB,Other,1,2.75,0,Severe,16,Moderate,24,Severe,21
+24,0,Dhaka,Biological_Sciences,3,3.6,0,Mild,7,Moderate,20,Mild,9
+24,1,North_South,Engineering_CS,4,3.6,0,Moderate,13,Moderate,17,Mild,8
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,6,Moderate,18,Mild,7
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,5,Moderate,20,Moderate,10
+20,0,AIUB,Engineering_CS,1,3.6,0,Severe,15,Moderate,23,Moderately_Severe,17
+24,0,AIUB,Engineering_CS,3,3.2,1,Moderate,14,Moderate,20,Severe,21
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,15,Moderate,20,Minimal,3
+20,1,AIUB,Engineering_CS,1,3.9,0,Minimal,1,Low,3,Mild,5
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,7,Moderate,18,Moderate,13
+20,1,IUB,Business,2,3.6,1,Severe,16,Moderate,26,Severe,20
+20,1,IUB,Engineering_CS,1,3.9,1,Mild,6,Moderate,20,Mild,8
+24,0,IUB,Engineering_CS,3,2.75,1,Moderate,14,Moderate,20,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.28,0,Mild,6,Moderate,22,Mild,9
+24,1,Daffodil,Engineering_CS,4,3.9,0,Minimal,0,Moderate,24,Severe,27
+24,0,IUB,Engineering_CS,2,3.6,0,Moderate,11,Moderate,18,Mild,6
+24,1,IUT,Engineering_CS,0,3.9,0,Mild,7,Low,9,Minimal,4
+20,1,IUB,Engineering_CS,3,2.75,0,Severe,21,High ,36,Severe,24
+24,1,IUT,Engineering_CS,0,3.6,0,Moderate,10,High ,27,Moderate,13
+20,1,IUT,Engineering_CS,2,3.9,0,Severe,19,High ,30,Moderately_Severe,16
+20,0,IUT,Engineering_CS,2,3.9,0,Severe,20,High ,30,Severe,20
+24,1,IUT,Engineering_CS,0,3.6,0,Mild,7,Low,12,Moderate,11
+20,0,IUT,Engineering_CS,2,2.75,0,Severe,21,High ,34,Severe,23
+24,1,IUT,Engineering_CS,0,3.6,0,Mild,6,Moderate,16,Minimal,1
+20,0,IUT,Engineering_CS,2,3.9,0,Severe,20,High ,29,Severe,22
+24,0,IUT,Engineering_CS,4,3.6,0,Mild,9,Moderate,22,Mild,7
+20,1,IUT,Engineering_CS,2,3.2,0,Severe,21,High ,40,Severe,24
+20,0,IUT,Engineering_CS,2,3.9,0,Mild,9,High ,28,Moderately_Severe,15
+24,1,IUT,Engineering_CS,0,3.2,0,Mild,6,Moderate,16,Moderate,10
+24,1,IUT,Engineering_CS,0,3.6,0,Moderate,14,Moderate,15,Moderately_Severe,18
+24,0,IUT,Engineering_CS,0,3.2,0,Severe,19,High ,30,Severe,21
+20,0,IUT,Engineering_CS,2,3.6,0,Severe,15,High ,34,Severe,20
+20,1,IUT,Engineering_CS,3,3.9,1,Moderate,10,Moderate,15,Moderately_Severe,17
+20,0,IUT,Engineering_CS,3,3.6,0,Moderate,14,High ,29,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,8,Moderate,18,Mild,9
+24,0,AIUB,Engineering_CS,4,3.6,1,Moderate,13,Moderate,17,Moderately_Severe,15
+24,1,IUT,Engineering_CS,3,3.6,1,Severe,21,High ,39,Severe,23
+24,1,IUT,Engineering_CS,0,3.9,1,Mild,7,Moderate,19,Mild,9
+20,0,IUT,Engineering_CS,3,3.6,0,Severe,17,High ,29,Severe,22
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,10,Moderate,21,Moderately_Severe,17
+24,0,IUB,Engineering_CS,4,2.75,1,Severe,17,Moderate,21,Severe,27
+20,0,AIUB,Engineering_CS,1,3.9,0,Severe,15,Moderate,23,Moderate,12
+20,1,IUT,Engineering_CS,3,3.6,1,Moderate,10,Moderate,25,Moderate,13
+24,1,IUT,Engineering_CS,3,3.6,0,Moderate,11,High ,28,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,1,3.28,0,Mild,8,Moderate,16,Moderate,11
+20,0,IUT,Engineering_CS,3,3.6,0,Severe,17,High ,29,Severe,22
+24,1,IUT,Engineering_CS,4,3.6,0,Mild,5,Moderate,22,Mild,5
+20,1,IUT,Engineering_CS,4,3.9,1,Mild,7,Moderate,21,Mild,9
+24,1,IUT,Engineering_CS,0,3.6,0,Mild,7,Moderate,21,Mild,5
+20,1,IUT,Engineering_CS,3,3.6,0,Mild,6,Moderate,18,Minimal,2
+20,0,IUB,Engineering_CS,2,2.25,0,Moderate,14,Moderate,21,Moderate,10
+24,1,IUT,Engineering_CS,3,3.6,1,Moderate,12,Moderate,26,Moderately_Severe,16
+24,1,Rajshahi,Engineering_CS,0,3.2,0,Mild,5,Moderate,24,Mild,6
+24,1,Rajshahi,Engineering_CS,0,2.75,0,Severe,19,High ,27,Severe,24
+24,1,IUT,Engineering_Mechanical,0,3.2,0,Moderate,14,Moderate,26,Moderately_Severe,15
+20,1,IUT,Engineering_CS,3,3.6,0,Mild,5,Moderate,18,Mild,7
+20,0,IUT,Engineering_CS,2,3.6,0,Severe,20,High ,38,Severe,24
+20,1,North_South,Engineering_CS,3,2.75,0,Severe,15,Moderate,24,Moderately_Severe,15
+20,0,Dhaka,Environmental_Sciences,3,3.9,0,Severe,15,Moderate,23,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,7,Moderate,18,Moderate,13
+20,1,IUT,Engineering_CS,2,3.2,0,Severe,17,High ,29,Moderate,12
+20,1,IUT,Engineering_CS,3,3.6,1,Severe,21,Moderate,26,Moderately_Severe,19
+24,0,IUT,Engineering_CS,3,3.2,0,Mild,9,High ,27,Moderately_Severe,18
+20,1,IUT,Engineering_Civil,4,3.2,0,Severe,19,High ,38,Moderately_Severe,15
+24,1,Rajshahi,Engineering_CS,3,3.6,0,Mild,7,Moderate,20,Mild,9
+20,0,IUT,Other,3,3.2,0,Severe,19,Moderate,26,Severe,23
+20,1,IUT,Business,3,3.2,0,Mild,5,Moderate,16,Mild,8
+20,1,IUT,Engineering_Civil,4,3.9,0,Severe,16,Moderate,26,Severe,21
+20,1,AIUB,Engineering_CS,2,3.9,0,Moderate,11,Low,10,Moderate,10
+24,0,DUET,Engineering_EEE,3,3.9,0,Mild,8,Moderate,19,Minimal,1
+24,1,DUET,Engineering_CS,3,3.6,0,Moderate,12,Moderate,14,Moderate,12
+24,1,DUET,Engineering_CS,3,3.2,0,Mild,7,Moderate,17,Minimal,1
+24,1,DUET,Engineering_CS,3,2.75,0,Minimal,0,Moderate,18,No,0
+20,1,AIUB,Engineering_CS,2,2.75,0,Moderate,14,High ,30,Moderately_Severe,18
+20,1,IUB,Engineering_CS,2,3.6,1,Severe,15,High ,32,Moderately_Severe,18
+24,1,IUB,Engineering_CS,4,3.2,0,Moderate,11,Moderate,20,Moderately_Severe,15
+20,1,IUT,Business,3,3.6,0,Moderate,14,Moderate,24,Moderate,10
+24,1,IUT,Business,3,3.2,0,Severe,15,Moderate,22,Moderately_Severe,15
+20,0,IUB,Business,2,3.2,1,Moderate,12,Moderate,20,Mild,9
+20,2,AIUB,Engineering_CS,3,3.6,0,Severe,21,Moderate,24,Severe,27
+24,1,IUT,Engineering_CS,4,3.6,0,Severe,17,High ,27,Moderately_Severe,15
+24,1,IUT,Engineering_CS,4,3.2,0,Minimal,2,Moderate,17,Mild,7
+24,0,Rajshahi,Law,0,3.9,1,Moderate,14,Moderate,21,Severe,20
+20,1,IUB,Engineering_CS,2,2.75,0,Mild,7,Moderate,15,Mild,8
+24,1,IUT,Engineering_CS,1,3.9,0,Severe,21,High ,33,Moderately_Severe,17
+20,1,IUB,Business,2,2.75,0,Mild,9,Low,11,Mild,9
+20,1,IUB,Business,2,2.75,0,Severe,18,Moderate,25,Moderately_Severe,16
+17,1,IUB,Business,1,3.2,0,Mild,6,Moderate,18,Moderate,10
+20,0,IUB,Business,2,2.75,0,Moderate,13,Moderate,24,Mild,9
+20,0,IUB,Business,2,3.9,1,Moderate,14,High ,31,Severe,21
+28,1,Rajshahi,Engineering_CS,0,3.2,0,Moderate,12,Moderate,23,Moderate,14
+24,0,IUT,Other,3,3.6,0,Moderate,14,Moderate,25,Moderately_Severe,16
+20,0,Rajshahi,Other,2,3.6,1,Mild,7,Moderate,21,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,6,Low,11,Mild,8
+20,1,IUT,Engineering_CS,3,3.9,0,Severe,16,High ,31,Severe,21
+20,1,IUB,Environmental_Sciences,1,2.75,0,Moderate,12,Moderate,20,Moderate,10
+20,1,IUB,Environmental_Sciences,1,3.9,1,Severe,16,Moderate,24,Severe,20
+28,0,IUB,Environmental_Sciences,2,2.75,1,Severe,21,High ,31,Severe,27
+20,0,IUB,Other,1,3.9,1,Mild,8,Moderate,19,Mild,6
+24,0,IUB,Business,4,3.2,0,Moderate,11,Moderate,19,Moderately_Severe,16
+20,0,IUB,Environmental_Sciences,1,3.9,1,Minimal,3,Moderate,25,Mild,6
+20,0,IUB,Environmental_Sciences,1,2.25,1,Moderate,14,Moderate,23,Severe,20
+20,0,IUB,Environmental_Sciences,2,3.6,0,Moderate,13,Moderate,19,Moderate,11
+20,1,IUT,Business,3,3.6,0,Severe,16,High ,29,Severe,22
+20,1,AIUB,Engineering_CS,1,2.75,0,Minimal,4,Moderate,18,Moderate,14
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,19,Moderate,25,Severe,27
+24,1,Dhaka,Biological_Sciences,3,3.2,0,Severe,20,Moderate,22,Moderately_Severe,17
+24,1,BUET,Engineering_Mechanical,4,2.75,0,Severe,21,High ,36,Severe,21
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,21,High ,27,Severe,24
+20,0,IUT,Business,3,3.9,0,Moderate,12,Moderate,19,Moderate,13
+20,1,AIUB,Engineering_CS,2,3.9,0,Moderate,11,Moderate,18,Moderate,12
+20,1,IUB,Engineering_CS,2,3.2,0,Moderate,11,Moderate,22,Mild,7
+20,1,AIUB,Engineering_CS,1,3.28,0,Severe,16,Moderate,26,Severe,20
+24,1,IUB,Engineering_CS,3,2.75,0,Moderate,13,Moderate,18,Moderately_Severe,15
+24,1,IUT,Engineering_CS,4,3.9,0,Severe,16,Moderate,24,Moderate,13
+20,1,IUT,Engineering_CS,4,3.6,0,Minimal,4,Moderate,19,Mild,7
+20,0,Rajshahi,Biological_Sciences,2,3.9,0,Severe,20,High ,37,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,9,Low,13,Moderately_Severe,18
+20,1,IUT,Engineering_CS,3,2.75,0,Severe,20,High ,31,Severe,22
+20,1,IUB,Engineering_CS,2,2.25,0,Severe,20,High ,33,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,2,3.9,1,Moderate,12,Moderate,23,Moderate,13
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,9,Moderate,22,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.28,0,Moderate,14,Moderate,22,Moderately_Severe,19
+20,0,AIUB,Engineering_CS,1,3.6,0,Moderate,13,High ,27,Moderately_Severe,17
+20,0,Dhaka,Biological_Sciences,4,3.6,1,Severe,20,High ,32,Severe,21
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Mild,8,Moderate,20,Mild,6
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Moderate,12,High ,35,Moderately_Severe,19
+24,0,Dhaka,Biological_Sciences,4,2.75,0,Minimal,0,Moderate,15,No,0
+24,0,Dhaka,Other,0,3.6,0,Moderate,10,Moderate,22,Severe,20
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Moderate,14,Moderate,23,Moderately_Severe,15
+24,1,Dhaka,Biological_Sciences,4,3.6,0,Mild,7,Moderate,22,Mild,9
+20,1,Dhaka,Environmental_Sciences,4,2.75,0,Moderate,14,Moderate,21,Moderately_Severe,18
+24,0,Dhaka,Environmental_Sciences,4,3.2,0,Moderate,14,Moderate,20,Moderately_Severe,18
+20,0,Dhaka,Environmental_Sciences,4,3.2,0,Moderate,12,High ,30,Moderate,13
+20,0,Rajshahi,Biological_Sciences,2,3.9,0,Mild,5,Low,7,Minimal,4
+20,0,Dhaka,Biological_Sciences,4,3.6,0,Moderate,13,Moderate,20,Mild,8
+24,1,Dhaka,Biological_Sciences,4,3.6,0,Severe,21,High ,30,Moderately_Severe,17
+24,0,Dhaka,Other,4,3.2,0,Mild,9,Moderate,22,Moderate,10
+24,1,Dhaka,Other,4,3.2,0,Severe,21,High ,36,Moderately_Severe,18
+24,1,DUET,Engineering_CS,3,3.2,1,Severe,16,Moderate,23,Moderately_Severe,18
+20,0,AIUB,Engineering_CS,1,3.6,0,Severe,15,Moderate,25,Moderately_Severe,18
+24,0,Dhaka,Environmental_Sciences,4,3.6,0,Mild,9,Moderate,24,Mild,8
+24,1,DUET,Engineering_CS,3,3.2,0,Moderate,11,Moderate,16,Severe,20
+24,1,DUET,Engineering_CS,2,3.2,0,Mild,6,Moderate,25,Severe,21
+24,1,DUET,Engineering_CS,2,2.75,0,Mild,7,Moderate,22,Mild,9
+24,1,DUET,Engineering_CS,2,2.75,0,Moderate,11,Moderate,21,Moderately_Severe,19
+24,0,DUET,Engineering_Civil,2,2.75,0,Severe,18,Moderate,21,Moderately_Severe,18
+24,0,Dhaka,Environmental_Sciences,4,3.6,0,Mild,8,Moderate,20,Mild,7
+20,1,DUET,Engineering_CS,2,3.6,0,Minimal,2,Moderate,17,Minimal,3
+20,1,IUB,Other,2,2.75,0,Moderate,11,Moderate,20,Mild,9
+20,1,AIUB,Engineering_CS,1,3.28,0,Mild,8,Moderate,20,Mild,9
+24,0,Dhaka,Other,4,3.6,0,Moderate,12,Moderate,26,Moderate,10
+20,1,AIUB,Engineering_CS,3,3.9,1,Moderate,11,Moderate,21,Moderately_Severe,16
+28,1,IUB,Environmental_Sciences,4,3.6,0,Mild,7,Moderate,20,Mild,8
+24,1,DUET,Engineering_CS,3,2.75,0,Severe,17,Moderate,17,Severe,25
+24,0,IUB,Business,4,2.25,0,Moderate,12,High ,32,Moderately_Severe,15
+20,0,IUB,Other,1,3.6,0,Mild,7,Moderate,19,Minimal,3
+24,1,IUB,Environmental_Sciences,4,2.75,0,Moderate,14,Moderate,20,Moderately_Severe,18
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,15,High ,34,Severe,24
+24,1,Dhaka,Biological_Sciences,4,3.6,0,Moderate,10,Moderate,24,Moderate,12
+24,1,Dhaka,Biological_Sciences,4,3.6,0,Severe,16,Moderate,25,Mild,9
+24,0,Dhaka,Biological_Sciences,4,2.75,0,Moderate,12,Moderate,20,Moderate,11
+24,1,DUET,Engineering_CS,2,2.25,0,Moderate,12,Moderate,24,Moderate,12
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Moderate,14,Moderate,22,Mild,9
+20,1,IUT,Engineering_CS,2,3.6,0,Severe,19,High ,31,Moderately_Severe,18
+24,1,DUET,Engineering_Other,3,3.2,1,Severe,19,Moderate,22,Severe,26
+24,1,AIUB,Engineering_CS,4,3.2,0,Severe,18,Moderate,22,Severe,24
+20,1,IUB,Business,1,2.75,0,Mild,7,Moderate,21,Moderately_Severe,18
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Mild,9,Moderate,21,Moderate,10
+20,1,IUB,Business,1,2.75,0,Moderate,11,Moderate,18,Mild,8
+24,1,IUT,Engineering_CS,4,3.2,0,Mild,6,Moderate,19,Mild,8
+20,0,IUT,Engineering_CS,2,3.6,0,Severe,21,High ,39,Severe,26
+24,0,IUB,Environmental_Sciences,1,3.6,0,Mild,9,Moderate,21,Mild,6
+24,1,IUT,Engineering_CS,4,3.9,1,Severe,16,High ,30,Moderate,14
+20,1,IUT,Engineering_CS,1,3.9,0,Severe,17,High ,36,Moderately_Severe,17
+20,1,IUT,Engineering_CS,1,3.28,1,Severe,21,Moderate,25,Severe,27
+20,0,IUT,Engineering_CS,1,3.28,1,Severe,18,Moderate,24,Moderately_Severe,15
+20,1,IUT,Engineering_CS,1,3.28,0,Moderate,10,Moderate,17,Moderate,12
+20,1,IUT,Engineering_CS,1,3.28,0,Moderate,11,Moderate,20,Moderate,14
+20,1,IUT,Engineering_CS,1,3.28,0,Mild,6,Moderate,16,Mild,7
+20,1,IUT,Engineering_CS,1,3.9,1,Mild,9,High ,28,Moderately_Severe,17
+20,1,IUT,Engineering_CS,1,3.6,0,Mild,9,Moderate,22,Mild,8
+20,1,IUT,Engineering_CS,1,3.9,1,Moderate,10,Moderate,19,Mild,8
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,20,High ,39,Moderately_Severe,19
+20,1,IUT,Engineering_CS,1,3.28,0,Moderate,13,High ,32,Severe,20
+20,1,IUT,Engineering_CS,2,3.6,0,Moderate,10,Moderate,21,Mild,5
+20,0,IUT,Engineering_CS,1,3.28,0,Severe,21,High ,35,Severe,26
+20,1,IUT,Engineering_CS,1,3.9,0,Moderate,13,Moderate,21,Moderately_Severe,17
+20,1,IUT,Other,3,3.6,0,Severe,17,Moderate,21,Moderately_Severe,18
+20,1,IUT,Engineering_CS,1,3.28,1,Moderate,12,Moderate,24,Moderate,14
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,16,Moderate,26,Moderate,11
+24,1,DUET,Engineering_CS,2,3.2,0,Moderate,14,Moderate,22,Moderate,13
+20,0,IUB,Environmental_Sciences,2,3.6,1,Mild,6,Moderate,21,Mild,9
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,17,High ,30,Severe,20
+20,1,AIUB,Engineering_CS,1,3.28,0,Mild,8,Moderate,16,Mild,8
+20,1,IUT,Engineering_CS,2,3.6,0,Severe,21,High ,39,Severe,24
+20,1,IUT,Engineering_CS,3,3.28,0,Moderate,12,High ,35,Severe,21
+24,1,IUB,Engineering_CS,3,2.25,0,Moderate,11,Moderate,22,Moderately_Severe,17
+24,1,DUET,Engineering_Mechanical,2,3.2,1,Moderate,12,Moderate,20,Moderately_Severe,16
+20,0,IUT,Engineering_CS,1,3.28,0,Severe,21,High ,27,Severe,23
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,11,Low,12,Mild,8
+24,1,AIUB,Engineering_CS,3,2.75,0,Moderate,14,Moderate,19,Moderately_Severe,15
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,21,High ,33,Moderately_Severe,18
+20,1,IUB,Environmental_Sciences,2,2.75,0,Minimal,0,Moderate,18,No,0
+20,1,IUB,Engineering_CS,2,3.9,1,Mild,6,Moderate,21,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,9,Moderate,22,Moderately_Severe,16
+20,1,UIU,Engineering_CS,1,3.6,0,Minimal,1,Low,12,Mild,7
+20,1,Patuakhali,Engineering_CS,1,2.75,0,Mild,6,Moderate,17,Mild,9
+20,0,Patuakhali,Engineering_CS,1,2.75,0,Minimal,0,Moderate,16,Minimal,1
+20,0,Patuakhali,Engineering_CS,1,3.2,0,Severe,21,Moderate,26,Severe,27
+20,0,Patuakhali,Engineering_CS,1,3.6,0,Mild,7,Low,12,Mild,8
+24,1,IUT,Engineering_CS,4,3.6,0,Mild,7,Moderate,16,Mild,7
+20,0,Patuakhali,Engineering_CS,1,3.2,0,Mild,7,Moderate,18,Mild,8
+20,1,Patuakhali,Engineering_CS,1,2.75,0,Moderate,12,Moderate,23,Moderately_Severe,18
+24,1,BUET,Engineering_EEE,3,3.9,1,Moderate,10,Moderate,19,Mild,9
+20,0,Patuakhali,Engineering_CS,3,3.2,0,Severe,15,High ,33,Severe,21
+20,0,Patuakhali,Engineering_CS,1,2.75,0,Moderate,10,Moderate,22,Moderate,11
+24,0,Patuakhali,Engineering_CS,3,3.6,0,Mild,5,Moderate,18,No,0
+20,1,Patuakhali,Engineering_CS,1,3.2,0,Mild,9,Moderate,24,Moderate,11
+20,1,Patuakhali,Engineering_CS,1,3.6,0,Mild,7,Moderate,17,Mild,8
+24,1,DUET,Engineering_CS,3,3.6,1,Severe,18,Moderate,21,Moderate,12
+24,1,Patuakhali,Engineering_CS,3,2.75,0,Mild,9,Moderate,25,Moderate,11
+20,1,Patuakhali,Engineering_CS,3,3.2,0,Severe,15,High ,34,Severe,21
+20,1,Patuakhali,Engineering_CS,1,3.2,0,Mild,7,Moderate,20,No,0
+20,1,Patuakhali,Engineering_CS,2,2.75,1,Severe,16,High ,29,Moderately_Severe,17
+20,0,Patuakhali,Engineering_CS,1,3.2,0,Mild,8,Moderate,21,Moderate,11
+20,1,Patuakhali,Engineering_CS,1,3.2,0,Severe,20,High ,39,Severe,23
+20,1,Patuakhali,Engineering_CS,1,2.75,0,Moderate,14,Moderate,23,Moderate,10
+24,1,Patuakhali,Engineering_CS,3,3.2,0,Moderate,12,Moderate,24,Moderately_Severe,15
+24,1,Patuakhali,Engineering_CS,3,3.6,1,Moderate,14,Low,13,Mild,8
+24,0,Patuakhali,Business,3,3.2,0,Moderate,13,Moderate,26,Moderate,11
+24,0,Patuakhali,Engineering_CS,3,3.2,0,Severe,21,High ,29,Severe,23
+20,0,Patuakhali,Engineering_CS,2,2.75,0,Moderate,10,Moderate,20,Mild,7
+24,1,IUB,Environmental_Sciences,0,2.75,1,Severe,18,Moderate,20,Severe,24
+24,1,Patuakhali,Engineering_CS,3,2.25,0,Severe,15,Moderate,20,Moderately_Severe,16
+20,1,Patuakhali,Engineering_CS,3,3.2,0,Severe,15,High ,38,Moderately_Severe,16
+20,2,Patuakhali,Engineering_CS,1,3.2,0,Moderate,10,Moderate,22,Moderately_Severe,15
+20,1,Patuakhali,Engineering_CS,1,3.2,0,Mild,9,High ,27,Moderate,11
+20,1,Patuakhali,Engineering_CS,1,2.75,0,Moderate,11,Moderate,17,Minimal,4
+24,1,DUET,Engineering_Mechanical,4,3.9,0,Mild,7,Moderate,20,Moderate,14
+20,1,IUB,Business,2,2.75,0,Mild,8,Moderate,17,Mild,9
+20,1,Patuakhali,Engineering_CS,3,3.2,1,Severe,16,Moderate,26,Severe,23
+20,0,Patuakhali,Engineering_CS,1,2.75,0,Mild,9,High ,32,Moderate,11
+24,0,Dhaka,Biological_Sciences,4,3.2,0,Severe,20,High ,27,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,3,3.2,0,Minimal,4,Moderate,17,Moderate,12
+24,1,Dhaka,Other,4,3.2,0,Minimal,0,Moderate,24,No,0
+24,1,DUET,Engineering_CS,3,3.2,0,Severe,15,Moderate,21,Moderately_Severe,16
+24,1,DUET,Engineering_CS,3,3.2,0,Severe,17,Moderate,17,Severe,23
+24,1,Patuakhali,Engineering_CS,3,3.2,0,Mild,7,Moderate,19,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,18,Moderate,19,Moderately_Severe,17
+20,0,AIUB,Engineering_CS,1,3.6,0,Severe,20,Moderate,20,Mild,9
+20,1,AIUB,Engineering_CS,2,3.2,0,Minimal,0,Moderate,20,No,0
+20,1,IUT,Engineering_CS,1,3.28,0,Moderate,13,High ,28,Moderately_Severe,15
+20,1,Patuakhali,Engineering_CS,3,2.75,0,Severe,16,Moderate,21,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,19,Moderate,20,Severe,27
+20,1,Patuakhali,Engineering_CS,1,2.75,0,Severe,18,High ,27,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.2,0,Minimal,3,Moderate,14,Mild,5
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,16,Moderate,25,Moderate,11
+20,1,Patuakhali,Engineering_CS,1,2.75,0,Mild,6,Low,12,Moderate,14
+24,1,DUET,Engineering_CS,3,3.2,0,Mild,8,Moderate,24,Moderate,11
+28,1,DUET,Engineering_CS,4,2.75,0,Mild,7,High ,29,Moderate,10
+24,1,DUET,Engineering_CS,4,3.2,0,Moderate,12,Moderate,21,Moderately_Severe,16
+24,1,IUT,Engineering_Mechanical,0,3.6,0,Mild,7,Moderate,21,Mild,5
+20,1,BRAC,Engineering_CS,0,3.2,0,Moderate,13,Moderate,22,Moderately_Severe,15
+20,1,Patuakhali,Engineering_CS,1,2.75,1,Severe,16,Moderate,20,Moderately_Severe,16
+24,1,BRAC,Business,4,3.6,0,Moderate,12,Moderate,25,Moderately_Severe,17
+24,1,BRAC,Business,4,3.2,1,Mild,7,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,1,2.75,0,Mild,6,Moderate,16,Moderate,10
+20,1,IUB,Engineering_CS,1,2.75,0,Severe,20,High ,32,Severe,26
+20,1,IUB,Engineering_CS,1,2.75,0,Minimal,4,Moderate,15,Mild,8
+20,1,IUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,20,Mild,9
+20,0,IUB,Engineering_CS,1,2.25,0,Severe,17,High ,27,Moderate,13
+20,1,IUB,Engineering_CS,1,3.6,1,Mild,7,Moderate,14,Mild,6
+20,1,IUB,Engineering_CS,1,2.25,0,Moderate,12,Moderate,18,Mild,9
+24,1,DUET,Engineering_CS,4,3.6,0,Minimal,1,Moderate,14,Mild,9
+20,0,IUB,Engineering_CS,1,3.6,0,Minimal,0,Moderate,18,Mild,5
+20,1,IUB,Engineering_CS,3,3.2,0,Moderate,10,Moderate,18,Mild,7
+24,1,IUB,Engineering_CS,2,2.75,0,Moderate,11,Moderate,22,Moderate,10
+20,1,IUB,Engineering_CS,1,3.6,1,Severe,21,Moderate,26,Severe,27
+20,0,IUB,Engineering_CS,1,2.25,0,Minimal,2,Moderate,18,Mild,7
+24,0,IUT,Other,0,3.2,0,Severe,17,High ,33,Moderately_Severe,19
+24,1,IUT,Business,0,2.75,0,Mild,8,High ,30,Mild,6
+24,1,IUT,Business,0,3.2,1,Moderate,13,Moderate,23,Moderately_Severe,15
+20,0,IUB,Engineering_CS,1,2.25,0,Moderate,12,High ,29,Moderately_Severe,15
+24,1,BRAC,Engineering_CS,0,3.6,0,Mild,7,Moderate,23,No,0
+20,1,IUB,Engineering_CS,1,3.6,1,Severe,21,High ,36,Severe,24
+24,0,IUT,Engineering_CS,0,3.6,0,Mild,6,Moderate,26,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.9,1,Moderate,11,Moderate,25,Moderately_Severe,15
+20,1,IUB,Engineering_CS,1,2.25,0,Minimal,0,Moderate,20,No,0
+20,0,IUB,Other,1,2.75,0,Severe,16,Moderate,22,Moderately_Severe,16
+20,1,IUB,Engineering_CS,1,3.6,1,Severe,15,Moderate,20,Moderately_Severe,17
+24,1,IUT,Other,0,3.2,1,Moderate,12,Moderate,24,Moderate,10
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,7,Moderate,17,Mild,8
+20,1,IUB,Engineering_CS,1,3.6,1,Mild,7,Moderate,20,Mild,9
+20,0,Patuakhali,Engineering_CS,1,3.6,0,Mild,5,Moderate,17,Moderate,13
+20,1,IUB,Engineering_CS,1,2.75,0,Mild,8,Moderate,17,Moderate,10
+24,1,IUT,Business,0,3.2,0,Mild,5,Moderate,17,No,0
+20,1,IUB,Engineering_CS,2,3.28,1,Moderate,13,Moderate,23,Moderate,10
+20,0,IUB,Engineering_CS,1,3.6,1,Moderate,12,Moderate,19,Moderate,14
+20,0,IUB,Engineering_CS,1,2.75,0,Mild,7,Moderate,21,Mild,9
+20,1,IUB,Engineering_CS,1,3.6,0,Mild,5,Low,13,Moderate,12
+24,0,IUT,Engineering_CS,0,3.2,0,Moderate,12,Moderate,18,Mild,9
+20,0,AIUB,Engineering_CS,3,3.6,0,Moderate,12,Moderate,15,Severe,22
+20,1,IUB,Engineering_CS,2,2.75,0,Moderate,11,Moderate,23,Mild,9
+20,1,IUB,Engineering_CS,1,2.75,0,Severe,20,Moderate,17,Severe,27
+20,1,IUB,Engineering_CS,1,3.6,0,Severe,17,High ,32,Severe,22
+20,1,IUB,Engineering_CS,2,2.75,0,Moderate,14,Moderate,26,Moderately_Severe,17
+24,1,DUET,Engineering_CS,0,3.2,1,Moderate,14,Moderate,22,Mild,9
+20,1,IUB,Engineering_CS,1,3.6,1,Mild,7,Moderate,20,Mild,9
+20,1,IUB,Engineering_CS,1,3.28,0,Mild,7,Moderate,24,Mild,5
+20,1,IUB,Engineering_CS,1,2.75,0,Moderate,10,Moderate,24,Moderate,12
+20,1,IUB,Engineering_CS,1,3.2,0,Mild,9,High ,27,Mild,6
+20,0,IUB,Engineering_CS,2,3.9,1,Severe,15,Moderate,15,Severe,24
+20,1,IUB,Engineering_CS,1,3.2,0,Moderate,13,Moderate,20,Moderately_Severe,18
+20,0,IUB,Engineering_CS,1,2.75,0,Mild,5,Low,10,Minimal,3
+20,1,IUB,Engineering_CS,1,3.28,0,Severe,21,High ,27,Severe,25
+20,0,AIUB,Engineering_CS,1,3.6,1,Moderate,13,Moderate,21,Moderately_Severe,16
+24,0,DUET,Engineering_CS,4,3.2,0,Mild,6,Low,7,Moderate,11
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,8,Moderate,15,Moderate,11
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,9,Moderate,18,Moderate,13
+24,1,IUB,Engineering_CS,4,2.25,0,Severe,17,High ,30,Severe,26
+24,1,IUB,Engineering_CS,1,3.6,1,Mild,8,Moderate,18,Moderate,13
+24,1,AIUB,Engineering_CS,3,3.6,0,Mild,7,Moderate,20,Moderate,14
+20,1,AIUB,Engineering_CS,3,3.6,0,Minimal,4,Moderate,14,Moderate,10
+20,1,AIUB,Engineering_CS,4,3.2,0,Mild,8,Moderate,24,Moderate,12
+20,0,AIUB,Engineering_CS,3,3.6,0,Severe,19,High ,36,Severe,23
+24,0,AIUB,Engineering_CS,4,3.9,0,Severe,15,Moderate,20,Moderate,13
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,13,Moderate,16,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,4,3.6,0,Moderate,13,Moderate,17,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,3,3.2,0,Mild,7,Moderate,20,Mild,9
+24,1,AIUB,Engineering_CS,4,3.2,0,Moderate,10,Moderate,20,Moderately_Severe,17
+24,0,AIUB,Engineering_CS,3,3.6,0,Moderate,13,Moderate,21,Moderate,11
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,13,High ,29,Moderate,10
+20,1,DUET,Engineering_CS,2,3.2,0,Minimal,3,Moderate,22,Mild,8
+20,1,DUET,Engineering_CS,2,2.25,0,Moderate,12,Moderate,17,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,15,High ,28,Moderate,14
+20,1,DUET,Engineering_CS,2,3.6,0,Mild,7,Low,13,Moderate,12
+20,1,DUET,Engineering_CS,2,3.6,1,Moderate,13,Moderate,25,Moderate,10
+20,1,DUET,Engineering_CS,2,3.2,0,Moderate,14,Moderate,20,Moderately_Severe,18
+24,1,IUB,Business,2,3.6,1,Moderate,12,Moderate,18,Moderately_Severe,18
+24,0,IUB,Environmental_Sciences,4,2.75,0,Mild,6,Moderate,20,Mild,9
+20,0,IUB,Business,2,3.6,0,Moderate,14,Moderate,25,Severe,23
+20,0,IUB,Engineering_CS,1,2.75,0,Mild,9,Moderate,22,Moderate,11
+24,1,IUB,Environmental_Sciences,3,2.75,0,Moderate,10,Moderate,19,Mild,6
+20,0,IUB,Business,2,3.6,1,Mild,6,Moderate,20,Moderate,10
+20,1,IUB,Business,2,2.75,0,Moderate,12,High ,27,Moderately_Severe,18
+24,1,IUB,Business,1,3.2,0,Moderate,12,Moderate,23,Moderately_Severe,19
+24,1,IUB,Business,1,2.75,0,Severe,18,High ,37,Severe,24
+20,1,IUB,Business,2,3.2,0,Mild,7,Moderate,18,Moderately_Severe,15
+24,1,IUB,Business,2,2.75,0,Moderate,13,Moderate,20,Moderate,13
+20,0,IUB,Business,3,2.25,1,Mild,9,Moderate,19,Moderate,12
+24,1,IUB,Other,1,3.2,0,Severe,17,Moderate,20,Moderately_Severe,18
+20,0,IUB,Business,1,3.6,0,Moderate,11,High ,33,Severe,22
+20,1,IUB,Engineering_CS,2,2.25,1,Moderate,12,High ,29,Moderate,14
+20,1,IUB,Business,1,2.75,0,Mild,7,Moderate,19,Mild,9
+20,1,IUB,Engineering_EEE,1,3.2,0,Minimal,4,Low,8,Minimal,3
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,21,Moderate,24,Severe,25
+20,0,IUB,Business,3,2.25,0,Moderate,11,Moderate,22,Moderate,13
+20,1,IUB,Business,3,3.2,0,Mild,9,Moderate,20,Moderate,11
+20,1,IUB,Business,2,2.75,0,Mild,9,Moderate,22,Mild,8
+24,1,IUB,Business,2,2.75,0,Severe,16,Moderate,20,Severe,25
+24,1,IUB,Business,2,3.2,1,Moderate,14,Moderate,18,Moderately_Severe,16
+24,1,IUB,Business,3,3.2,0,Moderate,12,Moderate,18,Moderately_Severe,19
+24,0,IUB,Biological_Sciences,1,3.28,0,Mild,7,Moderate,18,Moderate,10
+24,1,IUB,Business,2,2.75,1,Severe,20,High ,36,Severe,24
+20,1,IUB,Engineering_CS,3,2.75,0,Moderate,13,Moderate,26,Moderately_Severe,16
+24,1,IUB,Engineering_CS,0,2.75,0,Severe,15,High ,30,Severe,20
+20,1,DUET,Engineering_CS,2,3.2,0,Mild,8,Moderate,26,Severe,20
+20,0,IUB,Environmental_Sciences,1,3.9,1,Moderate,10,High ,28,Moderately_Severe,16
+24,0,DUET,Engineering_CS,2,3.2,0,Moderate,14,Moderate,19,Moderately_Severe,17
+24,0,IUB,Business,3,3.2,1,Moderate,13,Moderate,22,Moderately_Severe,16
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,18,Moderate,23,Severe,20
+20,0,IUB,Business,1,2.25,1,Minimal,0,Moderate,18,No,0
+24,1,IUB,Environmental_Sciences,4,2.75,0,Severe,21,High ,27,Severe,23
+24,1,IUB,Business,3,3.2,0,Minimal,2,Moderate,20,Minimal,1
+20,0,IUB,Engineering_Other,2,2.75,0,Moderate,14,Moderate,19,Moderately_Severe,18
+20,1,IUB,Engineering_CS,1,2.75,1,Mild,7,Moderate,17,Moderate,13
+20,1,IUB,Engineering_CS,1,3.6,1,Severe,17,Moderate,22,Severe,20
+20,1,IUB,Business,3,2.75,0,Severe,21,Moderate,23,Severe,26
+24,1,IUB,Business,2,3.2,0,Moderate,13,Moderate,20,Severe,20
+20,1,IUB,Business,2,2.75,0,Moderate,13,Moderate,24,Moderate,14
+20,1,IUB,Engineering_CS,2,3.2,0,Mild,5,Moderate,20,Mild,5
+20,1,IUB,Environmental_Sciences,1,3.28,0,Minimal,0,Moderate,22,Mild,9
+20,1,IUB,Engineering_EEE,1,2.75,0,Moderate,14,Moderate,20,Moderate,12
+24,0,AIUB,Engineering_CS,3,3.2,0,Severe,21,Moderate,21,Severe,27
+20,0,IUB,Engineering_CS,1,2.75,0,Minimal,4,Moderate,20,Mild,8
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,12,Moderate,23,Mild,9
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,21,Moderate,26,Severe,27
+20,0,AIUB,Engineering_CS,3,3.2,0,Severe,18,High ,31,Severe,21
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,14,Moderate,21,Moderate,13
+20,1,AIUB,Engineering_CS,3,3.9,1,Minimal,2,Low,6,Minimal,3
+20,0,AIUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,20,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,2,3.2,0,Mild,7,Low,13,Mild,9
+24,1,AIUB,Engineering_CS,3,3.2,0,Moderate,14,Moderate,20,Moderately_Severe,18
+24,1,AIUB,Engineering_CS,4,2.75,0,Severe,19,Moderate,19,Severe,27
+20,1,AIUB,Engineering_CS,2,3.9,1,Moderate,14,Low,10,Moderately_Severe,17
+24,1,AIUB,Engineering_CS,3,3.9,1,Severe,15,High ,34,Mild,9
+20,1,AIUB,Engineering_CS,3,2.75,0,Severe,20,Moderate,24,Severe,24
+20,1,AIUB,Engineering_CS,3,3.9,1,Severe,15,Moderate,18,Moderately_Severe,17
+20,1,IUB,Engineering_CS,2,3.28,0,Minimal,4,Moderate,20,Moderate,12
+20,0,IUB,Business,2,3.6,0,Severe,18,High ,29,Severe,25
+20,1,Dhaka,Biological_Sciences,3,3.2,1,Minimal,4,Moderate,16,Moderate,10
+20,0,Dhaka,Other,3,3.2,0,Moderate,14,High ,33,Severe,23
+24,0,Dhaka,Other,3,3.6,0,Severe,21,High ,38,Severe,21
+24,1,Dhaka,Other,3,3.2,0,Minimal,0,Moderate,16,No,0
+24,1,Dhaka,Biological_Sciences,3,3.2,0,Severe,17,High ,29,Moderately_Severe,15
+24,0,Dhaka,Biological_Sciences,3,3.2,0,Mild,6,Moderate,16,Moderate,12
+20,1,Dhaka,Environmental_Sciences,3,2.75,0,Minimal,0,Moderate,18,Minimal,3
+24,1,Dhaka,Environmental_Sciences,3,2.75,0,Minimal,4,Moderate,21,Moderate,10
+20,0,AIUB,Engineering_CS,3,3.9,0,Minimal,2,Moderate,17,Mild,8
+20,1,Dhaka,Other,3,3.2,0,Moderate,13,Moderate,18,Moderate,12
+20,1,AIUB,Engineering_CS,2,3.6,1,Mild,7,Moderate,19,Moderate,12
+24,1,Dhaka,Biological_Sciences,3,3.2,0,Mild,7,Moderate,15,Mild,8
+24,1,Dhaka,Biological_Sciences,4,3.2,0,Moderate,14,Moderate,26,Severe,20
+24,1,Dhaka,Other,3,2.75,0,Severe,16,High ,27,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,3,3.6,1,Moderate,12,Moderate,20,Mild,6
+24,1,Dhaka,Biological_Sciences,3,2.75,0,Minimal,2,Moderate,19,Minimal,3
+20,1,Dhaka,Biological_Sciences,3,3.2,0,Moderate,11,Moderate,22,Moderate,13
+20,0,Dhaka,Environmental_Sciences,3,2.75,0,Severe,15,Moderate,24,Severe,21
+24,0,Dhaka,Biological_Sciences,3,3.6,0,Severe,18,High ,34,Severe,21
+24,0,Dhaka,Other,3,3.6,0,Severe,18,Moderate,23,Moderately_Severe,15
+24,0,Dhaka,Environmental_Sciences,4,3.6,0,Severe,16,Moderate,24,Severe,21
+24,0,Dhaka,Environmental_Sciences,3,3.6,0,Moderate,14,High ,29,Moderately_Severe,19
+24,0,Dhaka,Biological_Sciences,4,3.6,0,Severe,18,Moderate,22,Severe,20
+24,0,Dhaka,Biological_Sciences,4,3.2,0,Moderate,10,Moderate,23,Mild,6
+24,0,Dhaka,Biological_Sciences,4,3.2,0,Mild,9,High ,28,Moderately_Severe,18
+20,1,Dhaka,Biological_Sciences,3,3.2,0,Minimal,2,Moderate,21,Mild,6
+20,0,AIUB,Engineering_CS,3,3.9,0,Minimal,3,Moderate,14,Mild,5
+20,0,AIUB,Engineering_CS,2,3.6,1,Mild,7,Moderate,23,Mild,9
+20,0,Dhaka,Biological_Sciences,3,3.2,0,Severe,21,High ,35,Severe,24
+20,1,AIUB,Engineering_CS,3,3.6,1,Moderate,12,Moderate,18,Mild,6
+20,0,AIUB,Engineering_CS,3,3.2,0,Moderate,11,Moderate,20,Mild,9
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,15,High ,27,Moderately_Severe,15
+24,1,Dhaka,Environmental_Sciences,3,3.2,0,Mild,9,Moderate,20,Mild,9
+24,0,Dhaka,Biological_Sciences,3,3.2,1,Mild,7,Moderate,18,Mild,9
+20,0,Dhaka,Biological_Sciences,3,3.6,0,Severe,17,Moderate,19,Mild,9
+24,1,Dhaka,Other,3,3.2,0,Mild,9,Moderate,19,Moderate,11
+20,1,Dhaka,Biological_Sciences,3,3.2,0,Moderate,11,Moderate,18,Minimal,1
+20,0,Dhaka,Biological_Sciences,3,3.2,0,Moderate,13,High ,34,Moderately_Severe,16
+24,1,Dhaka,Other,3,2.75,0,Mild,9,Low,12,Moderate,10
+24,0,Dhaka,Biological_Sciences,3,3.9,0,Severe,21,Moderate,25,Severe,24
+24,0,Dhaka,Biological_Sciences,3,3.6,0,Moderate,13,High ,27,Moderately_Severe,18
+24,0,Dhaka,Biological_Sciences,3,3.6,0,Moderate,10,Moderate,23,Mild,9
+20,1,Dhaka,Biological_Sciences,3,3.2,0,Mild,7,Moderate,18,Mild,9
+24,1,Dhaka,Biological_Sciences,3,3.2,0,Moderate,11,Low,11,Mild,7
+24,1,Dhaka,Biological_Sciences,3,3.2,1,Minimal,4,Moderate,14,Mild,8
+24,1,Dhaka,Environmental_Sciences,4,3.2,0,Mild,8,Moderate,25,Mild,7
+24,0,Dhaka,Environmental_Sciences,3,3.2,0,Severe,15,High ,31,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,2,3.9,1,Moderate,10,Moderate,14,Moderately_Severe,16
+24,1,Dhaka,Biological_Sciences,3,3.6,0,Moderate,14,Moderate,20,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,3,3.2,0,Moderate,12,Moderate,20,Moderate,11
+20,0,IUT,Business,3,3.9,0,Moderate,14,Moderate,24,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,14,Moderate,19,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,18,Moderate,26,Severe,24
+24,1,AIUB,Engineering_CS,4,3.6,1,Severe,21,Moderate,26,Severe,27
+20,1,IUB,Engineering_CS,2,2.75,0,Severe,21,High ,29,Severe,20
+20,0,Dhaka,Biological_Sciences,3,3.6,0,Moderate,10,Moderate,22,Moderate,13
+20,0,Dhaka,Environmental_Sciences,3,3.2,0,Moderate,14,Moderate,20,Moderately_Severe,18
+24,1,AIUB,Engineering_CS,3,3.2,0,Moderate,14,Moderate,20,Moderately_Severe,18
+20,0,IUB,Other,2,3.2,0,Mild,7,High ,28,Mild,9
+20,1,Dhaka,Biological_Sciences,3,3.2,0,Mild,7,Moderate,24,Mild,9
+20,1,AIUB,Engineering_CS,4,3.6,0,Severe,21,Moderate,20,Severe,27
+24,1,AIUB,Engineering_CS,3,3.9,0,Severe,16,Moderate,16,Mild,9
+20,1,AIUB,Engineering_CS,3,3.6,0,Severe,16,Moderate,25,Mild,7
+20,0,IUT,Engineering_EEE,2,3.9,0,Severe,19,Moderate,25,Moderately_Severe,17
+24,0,IUT,Engineering_EEE,4,3.9,1,Severe,18,High ,31,Moderately_Severe,17
+20,0,IUT,Engineering_CS,2,3.6,0,Severe,17,High ,29,Severe,22
+20,1,IUT,Engineering_EEE,2,3.9,0,Severe,17,Moderate,26,Moderately_Severe,17
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,20,Moderate,25,Severe,23
+20,0,IUT,Engineering_Civil,2,3.6,0,Severe,20,High ,34,Severe,24
+20,0,IUT,Engineering_EEE,2,3.6,0,Severe,19,High ,29,Severe,24
+20,0,IUT,Engineering_EEE,4,3.6,0,Moderate,13,Moderate,26,Moderate,10
+24,1,IUT,Engineering_EEE,4,3.6,0,Severe,19,High ,33,Severe,24
+20,2,IUT,Engineering_Mechanical,2,3.6,1,Severe,18,High ,39,Severe,27
+20,1,IUT,Engineering_Civil,3,3.6,0,Severe,21,Moderate,24,Severe,27
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Severe,18,High ,35,Severe,21
+20,0,IUT,Engineering_CS,1,3.6,0,Severe,21,High ,27,Moderately_Severe,18
+20,1,IUT,Engineering_Civil,3,3.6,0,Severe,21,High ,27,Severe,27
+20,1,IUT,Engineering_Civil,3,3.6,0,Severe,21,High ,31,Moderately_Severe,19
+20,0,IUT,Engineering_Civil,3,3.9,0,Severe,21,High ,34,Moderately_Severe,19
+20,0,IUT,Engineering_Civil,3,3.6,0,Severe,17,High ,33,Severe,24
+24,1,IUT,Engineering_Civil,3,3.2,0,Severe,17,High ,37,Moderate,10
+24,1,IUT,Engineering_Civil,3,3.2,0,Severe,21,Moderate,24,Severe,27
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Severe,17,High ,31,Moderately_Severe,15
+20,1,IUT,Engineering_Civil,3,3.6,0,Severe,20,High ,34,Severe,24
+20,0,IUT,Engineering_Civil,3,3.28,0,Severe,21,High ,29,Moderately_Severe,15
+20,1,IUT,Engineering_Civil,3,3.6,0,Severe,21,High ,37,Severe,23
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Mild,9,Moderate,21,Moderately_Severe,18
+24,1,IUT,Engineering_EEE,4,3.9,1,Severe,21,High ,27,Severe,21
+24,1,IUT,Engineering_Mechanical,4,3.2,1,Severe,15,High ,34,Moderately_Severe,16
+20,1,IUT,Engineering_EEE,4,3.2,1,Severe,18,High ,35,Moderately_Severe,17
+20,1,IUT,Engineering_CS,2,3.9,0,Moderate,14,High ,33,Moderate,14
+20,1,IUT,Engineering_EEE,2,3.9,0,Severe,21,High ,40,Severe,21
+24,1,IUT,Engineering_EEE,4,3.6,1,Severe,15,High ,34,Severe,21
+24,0,IUT,Engineering_Civil,0,3.2,0,Mild,8,Moderate,25,Moderately_Severe,16
+20,1,IUT,Engineering_EEE,4,3.6,0,Moderate,14,High ,29,Moderate,13
+20,1,IUT,Engineering_EEE,3,3.9,0,Moderate,10,Moderate,20,Moderate,14
+24,1,IUT,Engineering_EEE,2,3.9,1,Severe,17,Moderate,22,Severe,22
+20,1,IUT,Engineering_CS,1,3.28,0,Mild,7,Moderate,17,Moderate,10
+24,1,IUT,Engineering_Civil,4,2.75,0,Minimal,2,Low,12,Minimal,4
+20,1,IUT,Engineering_CS,2,3.9,0,Severe,16,High ,34,Severe,21
+20,1,IUT,Engineering_CS,1,3.28,0,Mild,7,Moderate,18,Mild,8
+20,1,IUT,Engineering_Mechanical,3,3.9,1,Minimal,3,Moderate,19,Mild,5
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,7,Low,13,Mild,8
+24,1,IUT,Engineering_EEE,4,3.6,0,Severe,21,High ,38,Moderate,12
+20,1,IUT,Engineering_Mechanical,1,3.28,1,Severe,20,Moderate,25,Moderate,11
+20,0,IUT,Engineering_CS,3,3.6,0,Moderate,13,High ,29,Severe,21
+20,0,IUT,Engineering_EEE,2,3.9,0,Severe,18,High ,39,Severe,22
+20,1,IUT,Engineering_Mechanical,2,2.75,0,Severe,21,High ,28,Moderately_Severe,15
+20,0,IUT,Engineering_EEE,4,3.6,0,Severe,16,High ,36,Moderately_Severe,17
+20,1,IUT,Engineering_EEE,2,3.9,0,Severe,18,Low,13,Severe,24
+20,1,IUT,Engineering_EEE,2,3.9,1,Severe,18,High ,37,Severe,21
+20,1,IUT,Engineering_Civil,1,3.9,0,Severe,18,High ,27,Moderately_Severe,16
+24,1,IUT,Engineering_Civil,3,3.2,0,Severe,21,High ,34,Severe,21
+20,0,IUT,Engineering_Other,2,3.2,0,Severe,18,High ,33,Severe,24
+20,1,IUT,Business,2,3.6,0,Mild,5,Low,12,Moderate,10
+24,1,IUT,Engineering_EEE,4,3.6,0,Severe,17,High ,28,Moderate,10
+20,1,IUT,Engineering_EEE,1,3.9,0,Severe,20,High ,31,Severe,24
+20,1,IUT,Engineering_Mechanical,2,3.2,0,Severe,19,High ,35,Severe,23
+20,0,IUT,Engineering_EEE,1,3.28,0,Moderate,14,High ,37,Severe,22
+24,1,IUT,Engineering_EEE,3,3.6,0,Moderate,13,High ,30,Moderate,13
+20,1,IUT,Engineering_CS,4,3.6,1,Minimal,4,Low,11,Minimal,3
+20,0,IUT,Engineering_Civil,1,3.28,0,Severe,21,High ,34,Moderately_Severe,19
+20,0,IUT,Engineering_CS,1,3.28,0,Moderate,13,High ,35,Moderately_Severe,18
+20,1,IUT,Engineering_EEE,1,3.28,0,Severe,17,High ,30,Moderately_Severe,17
+20,1,IUT,Engineering_Mechanical,1,3.9,0,Severe,16,High ,30,Moderate,13
+20,1,IUT,Business,3,3.6,0,Moderate,14,Moderate,26,Severe,26
+20,1,IUT,Engineering_Civil,1,3.28,1,Moderate,12,Moderate,22,Moderately_Severe,18
+20,0,IUT,Engineering_Civil,1,3.28,0,Severe,18,High ,37,Severe,24
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,10,Moderate,18,Moderate,14
+20,0,IUT,Engineering_Civil,1,3.28,0,Severe,15,High ,28,Severe,22
+20,1,IUT,Engineering_EEE,3,3.6,1,Severe,20,High ,31,Severe,21
+20,1,IUT,Engineering_EEE,2,3.6,1,Severe,18,High ,36,Severe,26
+20,0,IUT,Engineering_Civil,1,3.28,0,Severe,19,High ,37,Moderately_Severe,15
+20,1,IUT,Engineering_EEE,3,3.6,1,Minimal,3,Moderate,19,Mild,8
+20,1,IUT,Engineering_EEE,1,3.28,0,Moderate,10,Moderate,26,Moderate,11
+20,1,IUT,Engineering_EEE,3,3.9,0,Severe,21,High ,39,Severe,24
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Severe,18,High ,40,Severe,21
+20,1,IUT,Engineering_Civil,3,3.9,0,Severe,19,High ,36,Severe,25
+20,2,IUT,Engineering_CS,4,3.2,0,Severe,21,High ,39,Severe,26
+24,1,IUT,Engineering_CS,4,3.9,0,Severe,19,High ,29,Severe,20
+20,0,IUT,Engineering_EEE,3,3.6,1,Severe,18,High ,38,Moderately_Severe,19
+20,0,IUT,Engineering_Civil,1,2.25,0,Severe,19,High ,34,Severe,21
+20,1,IUT,Engineering_Civil,2,3.2,0,Severe,21,High ,35,Severe,22
+20,1,IUT,Engineering_EEE,1,3.9,0,Minimal,4,Low,13,Mild,5
+20,0,IUT,Engineering_EEE,1,3.28,0,Severe,20,High ,36,Moderately_Severe,17
+20,1,IUT,Engineering_Civil,3,3.2,0,Severe,17,High ,27,Moderately_Severe,18
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Moderate,14,Moderate,19,Moderately_Severe,18
+20,1,IUT,Engineering_Civil,2,3.6,0,Severe,21,High ,35,Severe,25
+20,1,IUT,Engineering_EEE,1,3.28,1,Moderate,10,Moderate,22,Mild,9
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,17,High ,37,Severe,22
+20,1,IUT,Engineering_Civil,1,2.75,0,Moderate,10,High ,35,Severe,27
+20,1,IUT,Engineering_Civil,2,3.2,0,Moderate,13,High ,33,Severe,21
+20,0,IUT,Engineering_Civil,2,3.2,0,Mild,7,Moderate,14,Mild,8
+20,1,IUT,Engineering_Mechanical,4,3.6,0,Severe,17,High ,30,Moderately_Severe,19
+20,1,IUT,Engineering_Mechanical,3,3.6,0,Severe,21,High ,30,Severe,25
+20,0,IUT,Engineering_Civil,2,3.6,0,Mild,9,High ,31,Moderately_Severe,15
+20,0,IUT,Engineering_EEE,3,3.6,1,Severe,18,High ,30,Moderately_Severe,18
+20,1,IUT,Engineering_EEE,1,2.25,0,Severe,18,High ,40,Severe,27
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Severe,15,High ,34,Mild,9
+20,1,IUT,Engineering_EEE,4,3.6,0,Moderate,14,Moderate,25,Moderate,12
+20,1,IUT,Engineering_EEE,1,3.28,0,Moderate,13,High ,29,Moderately_Severe,17
+20,0,IUT,Engineering_EEE,1,3.9,1,Severe,21,High ,29,Severe,25
+20,0,IUT,Engineering_EEE,2,3.9,0,Severe,20,High ,30,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,3,3.9,0,Moderate,12,Moderate,21,Moderate,14
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Severe,21,High ,33,Severe,20
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Moderate,11,High ,30,Moderately_Severe,15
+20,1,IUT,Engineering_EEE,1,3.28,1,Moderate,10,High ,33,Moderate,14
+24,1,IUT,Engineering_CS,4,3.2,0,Moderate,11,Moderate,19,Minimal,4
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,19,High ,36,Moderate,13
+20,1,IUT,Engineering_CS,4,3.9,0,Moderate,13,Moderate,20,Severe,21
+20,2,IUT,Engineering_CS,2,3.9,0,Severe,19,High ,38,Severe,27
+20,0,IUT,Engineering_CS,2,3.6,0,Moderate,14,High ,30,Severe,21
+20,1,IUT,Engineering_Civil,1,2.25,0,Mild,7,Moderate,20,Moderate,10
+20,1,IUT,Engineering_Mechanical,2,3.2,0,Severe,18,High ,34,Moderately_Severe,16
+20,1,IUT,Engineering_Civil,2,3.9,0,Severe,21,High ,33,Severe,25
+20,0,IUT,Other,1,3.28,0,Severe,21,High ,33,Severe,26
+20,0,IUT,Business,1,3.28,0,Severe,19,High ,30,Severe,23
+20,0,IUT,Business,1,3.28,0,Severe,21,High ,37,Severe,21
+20,0,IUT,Other,1,3.28,0,Severe,19,High ,27,Moderately_Severe,17
+20,1,IUT,Engineering_EEE,1,3.28,0,Moderate,13,High ,32,Moderate,13
+20,1,IUT,Engineering_CS,1,3.9,0,Severe,15,High ,34,Severe,21
+20,1,IUT,Engineering_EEE,1,3.28,0,Moderate,13,Moderate,18,Moderate,12
+20,1,IUT,Engineering_EEE,2,3.9,0,Severe,20,High ,34,Severe,23
+24,0,IUT,Engineering_CS,4,2.75,0,Severe,18,High ,38,Severe,22
+24,1,AIUB,Engineering_CS,3,3.2,1,Moderate,14,Moderate,22,Moderately_Severe,18
+35,1,IUT,Engineering_EEE,1,3.2,1,Severe,16,High ,33,Moderately_Severe,19
+20,0,IUT,Engineering_EEE,1,3.28,0,Severe,17,High ,30,Severe,21
+20,1,IUT,Engineering_EEE,1,3.6,0,Severe,19,High ,35,Moderately_Severe,17
+20,1,IUT,Engineering_Mechanical,2,3.6,0,Severe,17,Moderate,23,Moderately_Severe,18
+20,0,IUT,Engineering_Mechanical,3,3.2,0,Mild,9,High ,30,Moderately_Severe,17
+24,1,IUT,Engineering_CS,3,3.6,0,Severe,18,High ,36,Severe,27
+20,1,IUT,Engineering_EEE,1,3.28,1,Severe,16,High ,34,Moderately_Severe,19
+20,0,IUT,Engineering_Civil,1,3.28,0,Severe,19,High ,33,Severe,25
+24,0,IUT,Business,4,3.2,1,Severe,21,High ,32,Severe,22
+24,1,IUT,Engineering_CS,3,3.2,0,Severe,17,High ,34,Severe,23
+20,0,IUT,Engineering_EEE,1,3.28,0,Severe,21,High ,40,Severe,24
+20,0,IUT,Engineering_EEE,1,3.2,1,Severe,19,High ,28,Severe,23
+20,1,IUT,Engineering_EEE,1,3.9,1,Moderate,11,High ,29,Moderately_Severe,19
+20,1,IUT,Engineering_EEE,2,3.9,1,Severe,15,Moderate,15,Severe,25
+24,1,AIUB,Engineering_CS,3,3.6,0,Moderate,11,Moderate,25,Moderate,12
+20,0,IUT,Engineering_Civil,1,3.28,0,Severe,21,High ,30,Severe,25
+20,0,IUT,Other,2,3.6,0,Severe,21,High ,34,Severe,20
+20,0,IUT,Engineering_CS,3,3.2,0,Mild,9,High ,28,Mild,8
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Moderate,12,High ,29,Mild,7
+20,0,IUT,Engineering_EEE,3,3.6,0,Severe,18,High ,39,Severe,22
+20,1,Dhaka,Other,3,3.2,0,Mild,9,Moderate,20,Moderately_Severe,16
+20,0,IUT,Engineering_EEE,1,3.28,0,Severe,16,High ,39,Moderately_Severe,18
+20,1,Dhaka,Biological_Sciences,3,3.6,0,Minimal,0,Moderate,15,No,0
+20,0,IUT,Engineering_Mechanical,1,3.28,0,Severe,18,High ,37,Severe,27
+24,1,IUB,Engineering_CS,3,2.25,0,Mild,5,Moderate,22,No,0
+20,1,IUT,Engineering_EEE,1,3.28,0,Moderate,12,High ,32,Moderately_Severe,17
+24,0,IUT,Engineering_EEE,3,3.6,0,Severe,16,High ,34,Moderately_Severe,17
+24,1,IUT,Engineering_CS,3,2.25,0,Severe,17,High ,33,Severe,26
+20,1,IUT,Engineering_EEE,1,3.9,1,Moderate,10,Moderate,23,Moderate,13
+20,0,IUT,Engineering_EEE,1,3.28,0,Severe,21,High ,35,Severe,27
+20,0,IUT,Engineering_EEE,1,3.28,1,Severe,20,High ,31,Moderately_Severe,18
+28,0,IUT,Other,2,3.28,1,Severe,20,High ,33,Severe,22
+20,1,IUT,Engineering_EEE,1,3.28,1,Moderate,12,High ,32,Moderate,14
+20,1,IUT,Engineering_EEE,1,3.28,0,Mild,9,High ,29,Moderate,10
+20,0,IUT,Engineering_Civil,1,3.28,0,Severe,18,High ,30,Moderate,13
+20,1,IUT,Engineering_Mechanical,1,3.28,1,Moderate,12,Moderate,22,Moderate,12
+20,1,IUT,Engineering_EEE,2,3.9,0,Moderate,12,High ,29,Moderately_Severe,16
+24,1,IUT,Engineering_CS,3,3.6,0,Severe,21,High ,33,Severe,21
+20,0,IUT,Engineering_CS,2,3.6,1,Severe,18,High ,39,Severe,20
+24,1,IUT,Engineering_CS,4,3.2,1,Mild,9,Moderate,17,Moderate,14
+20,0,IUT,Business,2,3.2,0,Severe,16,High ,36,Moderately_Severe,18
+20,0,IUT,Engineering_Civil,2,3.6,0,Severe,15,Moderate,24,Moderately_Severe,18
+20,0,IUT,Engineering_EEE,1,2.75,0,Severe,19,High ,27,Severe,21
+20,1,IUT,Engineering_EEE,1,3.28,0,Severe,16,High ,35,Severe,20
+35,1,IUT,Other,1,3.2,1,Moderate,14,Low,13,Moderate,12
+20,1,IUT,Engineering_CS,3,3.9,1,Severe,17,High ,30,Moderately_Severe,17
+20,1,IUT,Engineering_CS,3,3.2,0,Severe,16,High ,33,Moderately_Severe,16
+24,1,IUT,Engineering_EEE,4,2.25,1,Moderate,14,High ,27,Moderately_Severe,18
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Severe,20,High ,33,Severe,24
+24,1,IUT,Engineering_Civil,4,3.2,0,Mild,7,Moderate,23,Mild,9
+20,0,IUT,Engineering_Mechanical,2,3.2,0,Severe,21,High ,34,Severe,24
+24,1,AIUB,Engineering_CS,3,3.6,0,Mild,9,Moderate,18,Mild,7
+20,1,IUT,Engineering_EEE,1,3.28,0,Moderate,11,Moderate,22,Moderate,10
+20,1,IUT,Engineering_EEE,1,3.2,0,Moderate,14,High ,27,Moderate,11
+20,1,IUT,Engineering_Mechanical,1,3.2,0,Moderate,14,High ,28,Moderately_Severe,15
+20,1,IUT,Engineering_CS,3,3.6,0,Severe,17,High ,32,Moderately_Severe,19
+20,1,IUT,Engineering_Mechanical,2,3.6,0,Minimal,3,Moderate,20,Mild,8
+20,0,IUT,Engineering_EEE,2,3.9,0,Severe,15,High ,29,Moderate,12
+20,0,IUB,Engineering_CS,1,2.75,0,Moderate,12,Moderate,21,Moderately_Severe,16
+24,1,DUET,Engineering_CS,4,3.6,0,Mild,9,Moderate,18,Moderate,12
+24,1,DUET,Engineering_CS,4,3.6,0,Minimal,4,Low,11,Mild,5
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,5,Moderate,20,Mild,7
+24,1,IUT,Engineering_CS,4,2.75,0,Severe,21,High ,40,Severe,26
+20,1,IUT,Engineering_EEE,1,3.28,0,Severe,15,High ,29,Moderate,12
+20,1,AIUB,Engineering_CS,3,3.2,0,Severe,21,Moderate,20,Mild,9
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Severe,20,High ,32,Moderately_Severe,19
+24,1,AIUB,Engineering_CS,3,2.75,0,Minimal,0,Moderate,20,Moderate,10
+24,1,DUET,Engineering_CS,4,3.2,1,Severe,16,Moderate,22,Moderate,14
+24,0,DUET,Engineering_CS,4,3.6,0,Moderate,14,Moderate,15,Moderate,11
+24,0,DUET,Engineering_CS,2,3.2,1,Minimal,2,Moderate,18,Minimal,4
+24,1,DUET,Engineering_CS,2,2.75,1,Moderate,13,Moderate,16,Moderately_Severe,15
+24,0,DUET,Engineering_CS,2,2.75,0,Moderate,12,Moderate,19,Moderately_Severe,15
+24,1,DUET,Engineering_CS,2,2.75,0,Mild,9,Moderate,16,Moderately_Severe,15
+20,0,IUT,Engineering_EEE,1,3.28,0,Moderate,10,Moderate,23,Moderate,11
+24,1,IUB,Environmental_Sciences,4,2.75,0,Moderate,12,High ,27,Moderate,13
+24,0,DUET,Engineering_CS,2,2.75,0,Minimal,2,Moderate,16,Minimal,3
+24,1,DUET,Engineering_CS,4,3.6,0,Moderate,13,Moderate,21,Severe,20
+24,1,DUET,Engineering_CS,2,2.75,0,Minimal,4,Moderate,14,Mild,6
+24,1,AIUB,Engineering_CS,4,2.75,0,Severe,21,Moderate,24,Severe,25
+24,1,DUET,Engineering_CS,4,3.9,1,Minimal,1,Low,13,Minimal,1
+20,1,IUB,Business,1,3.28,1,Minimal,4,Moderate,17,Minimal,2
+20,1,DUET,Engineering_CS,2,3.2,0,Mild,8,Moderate,18,Moderate,10
+20,0,North_South,Engineering_EEE,1,2.75,0,Mild,7,Moderate,19,Moderate,11
+20,1,IUT,Engineering_Civil,2,3.2,0,Moderate,13,High ,34,Severe,21
+24,1,DUET,Engineering_CS,2,3.2,0,Moderate,10,Moderate,22,Moderate,11
+20,1,IUT,Engineering_Mechanical,1,3.28,1,Moderate,11,Low,13,Moderately_Severe,16
+20,1,IUT,Engineering_Mechanical,1,3.28,0,Severe,21,High ,36,Moderately_Severe,19
+24,0,DUET,Engineering_CS,4,3.2,0,Mild,9,Moderate,18,Mild,7
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,15,High ,27,Severe,23
+28,1,IUT,Engineering_Mechanical,0,3.2,1,Minimal,0,Low,11,No,0
+20,1,IUT,Engineering_EEE,4,3.2,0,Severe,20,High ,39,Moderately_Severe,19
+20,1,IUB,Engineering_CS,1,2.75,0,Moderate,14,Moderate,20,Moderately_Severe,18
+24,1,AIUB,Engineering_CS,1,2.25,0,Moderate,10,Moderate,21,Moderately_Severe,15
+20,0,IUB,Engineering_CS,1,3.28,0,Mild,7,Low,9,Minimal,3
+20,0,AIUB,Engineering_CS,1,3.2,0,Severe,20,High ,34,Severe,24
+20,1,AIUB,Engineering_CS,1,3.9,0,Moderate,14,Moderate,21,Moderately_Severe,16
+24,1,IUT,Engineering_EEE,4,3.6,0,Severe,21,High ,33,Moderately_Severe,19
+20,1,IUT,Engineering_EEE,1,3.28,1,Moderate,14,Moderate,19,Mild,9
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,12,Moderate,18,Severe,24
+20,0,IUT,Engineering_Mechanical,3,3.6,1,Moderate,11,High ,27,Severe,20
+20,0,AIUB,Engineering_CS,2,3.2,0,Mild,8,Moderate,19,Mild,8
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,14,High ,29,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.2,1,Mild,8,Moderate,22,Moderately_Severe,16
+24,1,IUB,Engineering_CS,0,2.25,0,Severe,17,Moderate,21,Severe,22
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,20,High ,30,Severe,26
+20,0,RUET,Engineering_Civil,2,2.75,1,Moderate,14,Moderate,20,No,0
+20,1,RUET,Engineering_Civil,2,3.2,1,Severe,15,High ,35,Moderately_Severe,19
+20,1,RUET,Engineering_Civil,2,3.2,0,Moderate,13,High ,29,Moderately_Severe,17
+20,1,RUET,Engineering_Mechanical,2,2.75,0,Moderate,11,Moderate,14,Mild,5
+24,1,DUET,Engineering_EEE,4,3.6,1,Mild,8,Moderate,17,Moderately_Severe,15
+24,1,DUET,Engineering_EEE,4,3.9,0,Minimal,4,Low,12,Moderate,11
+20,1,RUET,Engineering_Mechanical,2,3.6,0,Severe,16,Moderate,23,Moderately_Severe,16
+20,0,Dhaka,Other,3,3.9,0,Severe,20,High ,31,Moderately_Severe,16
+24,1,DUET,Engineering_EEE,4,3.2,0,Moderate,10,High ,28,Moderate,13
+28,1,DUET,Engineering_EEE,4,3.2,0,Moderate,10,Moderate,22,Moderately_Severe,16
+20,0,Rajshahi,Liberal_Arts,2,3.6,0,Moderate,13,Moderate,24,Severe,25
+28,0,DUET,Engineering_EEE,4,2.75,0,Severe,19,High ,34,Moderately_Severe,18
+24,1,BUET,Engineering_EEE,4,3.2,0,Minimal,4,Moderate,18,Moderate,14
+20,1,RUET,Engineering_Mechanical,2,3.6,0,Moderate,13,High ,27,Moderately_Severe,16
+20,0,Rajshahi,Other,2,3.6,0,Mild,8,Moderate,21,Mild,7
+24,1,DUET,Engineering_EEE,4,3.2,0,Severe,19,High ,31,Moderately_Severe,17
+24,1,DUET,Engineering_EEE,4,2.75,0,Severe,18,Moderate,21,Severe,21
+24,1,DUET,Engineering_EEE,4,3.6,0,Severe,19,Moderate,20,Moderate,13
+20,1,RUET,Engineering_Mechanical,2,3.6,0,Minimal,1,Low,13,Mild,9
+28,1,DUET,Engineering_EEE,4,2.75,0,Severe,19,High ,32,Moderately_Severe,16
+24,1,DUET,Engineering_EEE,4,3.2,1,Minimal,0,Moderate,18,Mild,9
+24,1,DUET,Engineering_EEE,4,3.2,1,Severe,16,Moderate,20,Moderately_Severe,18
+24,1,DUET,Engineering_EEE,4,2.75,0,Moderate,10,Moderate,19,Moderately_Severe,16
+20,0,IUB,Engineering_CS,1,2.75,1,Minimal,2,Moderate,22,Mild,7
+20,1,IUT,Engineering_EEE,1,3.28,0,Moderate,14,Moderate,25,Moderately_Severe,16
+24,1,DUET,Engineering_EEE,4,3.6,0,Mild,5,Low,7,Mild,7
+24,1,DUET,Engineering_EEE,4,3.2,0,Moderate,11,Low,11,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,12,Moderate,25,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,16,High ,30,Severe,21
+20,0,AIUB,Engineering_CS,1,3.6,1,Minimal,4,Moderate,19,Mild,7
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,8,Low,10,Mild,9
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,16,High ,27,Severe,21
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,16,Moderate,17,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.9,1,Minimal,2,Moderate,15,Mild,5
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,21,High ,30,Severe,23
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,6,Moderate,19,Mild,8
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,15,Moderate,17,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,16,Moderate,21,Severe,20
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,16,Moderate,21,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,1,2.75,0,Mild,6,Moderate,17,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,13,Moderate,23,Severe,22
+20,0,AIUB,Engineering_CS,1,3.2,0,Severe,15,Moderate,14,Severe,20
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,12,Moderate,23,Moderate,13
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,17,Moderate,20,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,11,Moderate,16,Moderate,13
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,14,High ,33,Severe,23
+20,1,AIUB,Engineering_CS,1,2.75,0,Mild,5,Moderate,24,Severe,21
+20,1,AIUB,Engineering_CS,1,2.75,0,Severe,17,Moderate,22,Severe,21
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,13,Moderate,17,Moderate,14
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,12,Moderate,19,Mild,5
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,16,Moderate,25,Moderately_Severe,15
+20,0,AIUB,Engineering_CS,1,3.2,0,Mild,9,Moderate,21,Moderate,13
+20,0,AIUB,Engineering_CS,1,3.6,0,Severe,18,Moderate,26,Severe,20
+24,1,AIUB,Engineering_CS,1,3.6,0,Severe,18,High ,31,Moderate,14
+20,1,AIUB,Engineering_CS,1,2.75,0,Mild,8,Moderate,20,Mild,6
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,22,Minimal,4
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,13,Moderate,19,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,9,Moderate,19,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,5,Low,13,Minimal,3
+20,1,AIUB,Engineering_CS,1,3.6,1,Moderate,13,Moderate,25,Severe,21
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,18,High ,28,Moderately_Severe,19
+24,1,DUET,Engineering_Mechanical,4,3.6,0,Severe,17,High ,39,Moderately_Severe,17
+24,1,DUET,Engineering_Mechanical,4,3.2,0,Moderate,10,Moderate,18,Moderate,10
+24,1,DUET,Engineering_EEE,4,3.2,0,Mild,7,Moderate,25,Moderate,11
+20,0,AIUB,Engineering_CS,1,2.75,0,Moderate,14,Moderate,22,Severe,24
+20,1,AIUB,Engineering_CS,1,3.2,1,Moderate,14,Moderate,25,Severe,20
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,5,Moderate,19,Mild,7
+24,1,AIUB,Engineering_CS,3,2.75,0,Mild,5,Moderate,20,Mild,7
+20,1,AIUB,Engineering_CS,2,2.75,0,Moderate,13,Moderate,22,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,18,High ,33,Severe,20
+20,0,AIUB,Engineering_CS,1,3.6,0,Mild,9,Moderate,15,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,6,Moderate,20,Mild,6
+20,1,AIUB,Engineering_CS,1,2.75,0,Mild,7,Moderate,18,Mild,9
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,11,Moderate,18,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,11,High ,33,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,12,Moderate,20,Moderate,14
+20,1,AIUB,Engineering_CS,1,3.9,0,Moderate,10,Moderate,22,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,13,Moderate,22,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,8,Moderate,23,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,7,Moderate,14,Moderate,12
+20,0,AIUB,Engineering_CS,1,3.6,0,Severe,15,Moderate,25,Severe,24
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,17,Moderate,22,Moderate,11
+20,0,AIUB,Engineering_CS,1,3.2,0,Moderate,12,Moderate,21,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,6,Moderate,14,Mild,5
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,18,Moderate,26,Severe,26
+20,1,AIUB,Engineering_CS,1,3.6,0,Minimal,4,Moderate,16,Mild,7
+20,1,AIUB,Engineering_CS,1,2.75,0,Mild,7,Moderate,19,Mild,8
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,7,Moderate,20,Mild,9
+20,1,AIUB,Engineering_CS,1,2.75,0,Moderate,12,High ,28,Moderate,14
+20,0,AIUB,Engineering_CS,1,3.2,0,Mild,8,Moderate,21,Mild,9
+20,1,AIUB,Engineering_CS,1,3.2,0,Severe,15,Moderate,21,Severe,20
+20,1,AIUB,Engineering_CS,1,2.75,0,Moderate,10,Moderate,26,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,8,Moderate,17,Mild,6
+24,0,RUET,Engineering_Civil,2,3.2,0,Severe,18,High ,32,Moderately_Severe,16
+20,0,RUET,Engineering_Civil,2,3.6,0,Severe,20,High ,29,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,1,2.75,0,Minimal,1,Moderate,19,No,0
+20,1,RUET,Engineering_Civil,2,2.75,0,Moderate,10,Moderate,22,Mild,9
+20,0,AIUB,Engineering_CS,1,3.2,0,Severe,15,High ,33,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,2,3.6,0,Severe,16,High ,29,Severe,21
+20,0,AIUB,Engineering_CS,2,3.6,0,Moderate,12,Moderate,20,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,16,Moderate,25,Severe,23
+20,1,IUT,Engineering_Mechanical,1,3.6,0,Mild,6,Moderate,20,Moderate,10
+20,0,AIUB,Engineering_CS,1,3.9,0,Moderate,13,Moderate,26,Moderately_Severe,18
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,13,Moderate,19,Moderate,10
+20,1,AIUB,Engineering_CS,2,3.6,0,Severe,20,High ,28,Severe,22
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,9,Moderate,22,Mild,9
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,18,Moderate,25,Severe,22
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,18,Moderate,20,Severe,24
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,5,Moderate,18,Minimal,3
+20,1,AIUB,Engineering_CS,1,2.75,0,Moderate,14,Moderate,22,Moderate,13
+20,1,AIUB,Engineering_CS,2,3.6,0,Minimal,3,Moderate,14,Mild,7
+20,1,AIUB,Engineering_CS,1,3.9,1,Severe,16,High ,30,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,2,3.2,0,Moderate,13,Moderate,24,Severe,21
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,16,Moderate,24,Moderate,11
+20,0,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,20,Mild,7
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,6,Low,11,Minimal,2
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,20,Mild,8
+20,0,AIUB,Engineering_CS,1,2.75,0,Moderate,10,Moderate,17,Moderate,11
+20,1,AIUB,Engineering_CS,1,3.9,0,Moderate,10,Moderate,21,Moderate,11
+20,1,AIUB,Engineering_CS,2,3.9,1,Severe,15,Moderate,20,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,1,3.6,0,Moderate,10,Moderate,19,Mild,6
+20,1,AIUB,Engineering_CS,2,3.2,0,Moderate,13,Moderate,26,Mild,9
+20,1,AIUB,Engineering_CS,1,3.9,0,Severe,21,Moderate,25,Severe,22
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,5,Low,10,Minimal,2
+24,1,AIUB,Engineering_CS,2,3.6,0,Severe,15,High ,33,Severe,26
+20,1,AIUB,Engineering_CS,2,3.9,1,Severe,19,High ,31,Severe,22
+24,1,AIUB,Engineering_CS,2,3.6,0,Moderate,14,High ,28,Severe,20
+20,1,DUET,Engineering_Mechanical,2,3.6,0,Mild,5,Moderate,15,Minimal,3
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,9,Moderate,24,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,20,Moderate,17,Moderately_Severe,19
+20,1,AIUB,Engineering_CS,1,3.9,0,Mild,9,Moderate,21,Moderately_Severe,15
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,19,High ,28,Severe,24
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,7,Moderate,20,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,8,Moderate,16,Moderate,11
+24,1,AIUB,Engineering_CS,2,3.2,0,Moderate,14,Moderate,24,Moderately_Severe,16
+20,1,AIUB,Engineering_CS,1,3.2,0,Moderate,12,Moderate,24,Moderate,11
+20,1,AIUB,Engineering_CS,2,3.6,0,Moderate,13,Low,10,Moderate,10
+20,1,AIUB,Engineering_CS,2,3.6,0,Minimal,2,Moderate,16,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Mild,8,Moderate,17,Moderate,12
+20,1,AIUB,Engineering_CS,1,2.75,0,Moderate,12,High ,27,Severe,20
+20,1,AIUB,Engineering_CS,1,2.75,0,Moderate,10,Moderate,23,Moderate,10
+20,1,AIUB,Engineering_CS,1,3.6,0,Severe,16,Moderate,22,Moderately_Severe,19
+20,0,AIUB,Engineering_CS,1,3.2,0,Severe,19,Moderate,24,Severe,22
+20,1,AIUB,Engineering_CS,1,3.2,0,Minimal,2,Moderate,15,Minimal,4
+20,0,AIUB,Engineering_CS,1,3.6,0,Mild,6,Moderate,20,Mild,9
+20,1,AIUB,Engineering_CS,1,3.6,1,Moderate,11,Moderate,25,Moderate,12
+20,1,AIUB,Engineering_CS,1,3.6,1,Mild,9,Moderate,18,Mild,9
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,7,Moderate,20,Minimal,4
+20,0,AIUB,Engineering_CS,1,2.75,0,Mild,9,Moderate,22,Mild,9
+35,1,DUET,Engineering_Mechanical,1,3.28,0,Minimal,1,Low,10,Moderate,14
+20,0,AIUB,Engineering_CS,1,3.6,0,Mild,6,Moderate,18,Mild,7
+20,1,IUT,Engineering_EEE,2,3.6,0,Mild,6,High ,34,Severe,24
+24,1,DUET,Engineering_Mechanical,3,2.75,0,Severe,18,Moderate,23,Severe,22
+20,1,DUET,Engineering_CS,1,3.28,0,Mild,5,Low,5,Mild,5
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,9,Moderate,25,Mild,8
+20,1,DUET,Engineering_CS,1,3.28,0,Severe,21,High ,33,Severe,22
+20,1,IUT,Engineering_CS,1,3.28,0,Severe,19,High ,29,Moderately_Severe,17
+20,0,IUT,Engineering_CS,3,3.6,0,Mild,9,Moderate,21,Moderate,12
+20,0,AIUB,Engineering_CS,1,3.6,0,Moderate,13,Moderate,26,Moderately_Severe,19
+20,1,EWU,Engineering_CS,4,3.2,0,Mild,8,Moderate,22,Mild,7
+24,1,EWU,Engineering_CS,4,2.75,1,Severe,19,Moderate,26,Moderate,11
+20,1,EWU,Engineering_CS,4,2.75,0,Severe,16,Moderate,26,Moderately_Severe,15
+20,1,EWU,Engineering_CS,3,3.6,1,Severe,21,Moderate,24,Severe,22
+24,0,EWU,Engineering_CS,4,3.2,1,Moderate,10,Moderate,22,Moderately_Severe,16
+24,0,EWU,Engineering_CS,4,3.6,1,Mild,7,Moderate,24,Moderate,13
+20,1,AIUB,Engineering_CS,1,3.2,0,Mild,6,Moderate,15,Mild,6
+20,1,EWU,Engineering_CS,4,3.2,1,Mild,8,Moderate,24,Moderate,12
+20,1,AIUB,Engineering_CS,3,3.6,0,Moderate,11,Moderate,17,Mild,9
+24,1,EWU,Engineering_CS,4,3.6,1,Severe,15,Moderate,19,Moderately_Severe,19
+20,0,EWU,Engineering_CS,4,3.2,1,Moderate,12,Low,9,Moderate,11
+24,0,EWU,Engineering_CS,4,2.75,0,Severe,15,Moderate,20,Moderate,14
+24,1,DUET,Engineering_CS,3,2.75,0,Mild,8,Moderate,17,Moderate,13
+24,1,DUET,Engineering_CS,3,3.2,1,Minimal,0,Low,12,Moderately_Severe,18
+24,1,DUET,Engineering_CS,3,3.6,0,Severe,15,Moderate,22,Moderately_Severe,17
+24,0,DUET,Engineering_CS,3,3.2,0,Mild,6,Moderate,17,Moderate,12
+24,1,DUET,Engineering_CS,3,2.75,0,Mild,8,Moderate,18,Severe,22
+20,1,DUET,Engineering_CS,3,3.6,0,Mild,6,Low,8,Mild,6
+24,1,DUET,Engineering_CS,3,3.2,0,Moderate,14,Moderate,18,Severe,22
+20,1,IUT,Engineering_EEE,2,3.9,0,Severe,19,High ,36,Moderately_Severe,19
+24,0,DUET,Engineering_CS,4,3.2,0,Moderate,10,Moderate,17,Mild,9
+24,1,DUET,Engineering_CS,4,2.75,0,Severe,17,Moderate,25,Moderate,14
+24,1,DUET,Engineering_CS,4,3.6,0,Severe,18,High ,31,Severe,22
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,5,Low,12,Minimal,4
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,7,Moderate,20,Mild,9
+28,1,DUET,Engineering_CS,0,3.2,0,Moderate,10,Moderate,21,Mild,8
+24,1,DUET,Engineering_CS,4,3.2,0,Moderate,13,Moderate,14,Moderately_Severe,16
+24,0,DUET,Engineering_CS,2,3.2,1,Mild,9,Moderate,18,Moderate,12
+24,1,DUET,Engineering_CS,2,3.6,0,Moderate,12,Moderate,21,Moderate,10
+24,1,DUET,Engineering_CS,4,2.75,0,Mild,8,Low,12,Minimal,2
+24,0,DUET,Engineering_CS,2,3.2,1,Moderate,12,Moderate,23,Moderate,14
+20,1,DUET,Engineering_CS,2,3.2,1,Moderate,12,Moderate,19,Moderately_Severe,18
+20,1,DUET,Engineering_CS,2,3.2,0,Moderate,13,Moderate,21,Moderately_Severe,16
+24,0,DUET,Engineering_CS,2,3.6,0,Mild,6,Low,13,Mild,8
+20,1,DUET,Engineering_CS,2,2.75,0,Moderate,14,Moderate,21,Moderate,13
+24,1,DUET,Engineering_CS,2,3.2,0,Mild,7,Moderate,23,Mild,9
+24,1,DUET,Engineering_CS,2,3.2,1,Mild,5,Low,12,Mild,5
+24,1,DUET,Engineering_CS,4,3.2,0,Minimal,4,Moderate,19,Moderate,11
+24,1,DUET,Engineering_CS,2,2.75,0,Moderate,10,High ,28,Moderately_Severe,18
+24,0,DUET,Engineering_CS,2,3.6,0,Moderate,11,Moderate,17,Moderately_Severe,15
+24,0,DUET,Engineering_CS,2,3.6,1,Moderate,11,Moderate,18,Mild,8
+24,1,DUET,Engineering_CS,3,3.6,1,Moderate,14,Moderate,16,Moderately_Severe,19
+20,1,DUET,Engineering_CS,2,3.2,0,Moderate,12,Low,8,Moderately_Severe,15
+24,1,DUET,Engineering_CS,4,3.2,0,Mild,6,Moderate,14,Moderate,10
+24,1,DUET,Engineering_CS,2,3.2,0,Moderate,11,Moderate,20,Moderately_Severe,17
+20,1,AIUB,Engineering_CS,3,3.6,0,Mild,9,Moderate,18,Mild,8
+24,1,AIUB,Engineering_CS,4,3.6,0,Mild,8,Low,13,Moderately_Severe,15
+24,0,EWU,Engineering_CS,4,3.2,0,Severe,16,High ,27,Severe,23
+24,0,DUET,Engineering_CS,1,3.9,0,Minimal,0,Moderate,24,No,0
+24,1,DUET,Engineering_CS,1,3.28,1,Minimal,0,Moderate,19,Minimal,1
+20,1,DUET,Engineering_CS,1,3.2,1,Minimal,0,Low,0,Minimal,3
+24,0,DUET,Engineering_CS,1,3.28,0,Moderate,11,Moderate,18,Moderate,13
+24,0,DUET,Engineering_CS,1,3.6,0,Minimal,3,Moderate,19,Minimal,4
+24,0,DUET,Engineering_CS,1,3.9,0,Mild,6,Moderate,24,Mild,8
+24,1,DUET,Engineering_CS,1,3.28,0,Mild,7,Moderate,14,Moderate,11
+24,0,DUET,Engineering_CS,1,3.9,0,Minimal,4,Moderate,20,Moderate,12
+20,1,EWU,Engineering_CS,4,2.75,0,Severe,15,Moderate,21,Moderately_Severe,18
+20,1,EWU,Engineering_CS,4,3.2,0,Mild,8,Moderate,19,Mild,9
+24,1,AIUB,Engineering_CS,3,3.6,0,Severe,20,High ,29,Moderately_Severe,16
+20,1,DUET,Engineering_CS,2,3.2,0,Moderate,10,Moderate,15,Mild,6
+20,0,DUET,Engineering_CS,1,3.28,0,Mild,7,Moderate,24,Moderate,11
+20,0,DUET,Engineering_CS,1,3.28,0,Mild,9,Moderate,19,Moderate,13
+20,1,AIUB,Engineering_CS,2,3.9,0,Mild,7,Moderate,16,Mild,6
+24,1,DUET,Engineering_CS,2,2.75,0,Moderate,11,High ,27,Moderate,10
+24,0,DUET,Engineering_CS,1,3.28,0,Moderate,11,Moderate,18,Mild,9
+20,1,IUB,Engineering_CS,1,3.28,0,Minimal,0,Moderate,18,No,0
+24,1,DUET,Engineering_CS,2,3.2,1,Moderate,11,Moderate,16,Moderate,10
+24,1,DUET,Engineering_CS,1,3.28,1,Mild,8,Low,11,Moderate,13
+20,1,EWU,Engineering_CS,4,3.6,1,Moderate,12,Moderate,17,Severe,20
+24,0,EWU,Engineering_CS,4,3.2,0,Moderate,12,Moderate,21,Moderately_Severe,15
+20,1,EWU,Engineering_CS,4,2.75,1,Mild,7,Moderate,23,Moderate,10
+24,1,AIUB,Engineering_CS,4,2.75,0,Mild,9,Moderate,20,Mild,9
+20,0,EWU,Engineering_CS,4,3.2,0,Moderate,11,Moderate,17,Moderately_Severe,18
+20,0,IUB,Engineering_CS,1,2.25,0,Severe,15,Moderate,22,Moderately_Severe,18
+20,0,AIUB,Engineering_CS,1,3.2,0,Severe,21,High ,27,Moderate,14
+24,1,AIUB,Engineering_CS,3,3.2,0,Severe,19,High ,31,Severe,22
+20,1,RUET,Engineering_Civil,3,3.2,0,Moderate,12,Moderate,23,Moderate,13
+20,1,RUET,Engineering_EEE,2,3.6,0,Moderate,12,Moderate,20,Moderately_Severe,17
+20,1,RUET,Engineering_Mechanical,2,3.6,0,Mild,6,Moderate,24,Moderate,10
+24,0,BAU,Environmental_Sciences,4,3.2,0,Severe,15,Moderate,23,Moderate,14
+24,0,EWU,Engineering_CS,4,2.75,0,Severe,21,Moderate,24,Severe,27
+24,1,DUET,Engineering_CS,4,3.2,0,Minimal,1,Low,12,Moderate,10
+24,1,AIUB,Engineering_CS,4,3.2,0,Mild,7,Moderate,22,Moderate,12
+20,1,IUB,Engineering_CS,3,3.6,1,Mild,6,Low,13,Mild,5
+20,1,AIUB,Engineering_CS,3,3.6,0,Severe,15,Moderate,18,Moderate,14
+24,1,EWU,Engineering_CS,4,2.75,1,Moderate,14,High ,29,Severe,20
+24,1,BAU,Biological_Sciences,4,3.9,0,Mild,8,Low,11,Mild,5
+24,0,BAU,Other,4,3.6,0,Mild,8,Moderate,18,Minimal,4
+24,1,BAU,Biological_Sciences,4,3.6,0,Moderate,11,Moderate,24,Moderate,13
+24,0,BAU,Other,4,3.6,0,Moderate,11,Moderate,20,Mild,9
+24,0,BAU,Biological_Sciences,0,3.9,0,Mild,8,High ,30,Severe,22
+24,1,BAU,Other,4,3.2,0,Mild,9,Moderate,18,Moderate,11
+24,1,IUB,Engineering_CS,3,2.75,0,Minimal,2,Moderate,19,No,0
